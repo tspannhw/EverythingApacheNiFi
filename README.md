@@ -155,6 +155,12 @@
 * Hive / ORC https://dev.to/tspannhw/using-grovepi-with-raspberry-pi-and-minifi-agents-for-data-ingest-to-parquet-kudu-orc-kafka-hive-and-impala-2h9k
 * REST / Monitoring https://dev.to/tspannhw/monitoring-cloudera-edge-flow-manager-and-cloudera-streams-messaging-manager-with-apache-nifi-387k
 * Generate JSON https://dev.to/tspannhw/generating-json-data-in-apache-nifi-4apo
+* Kafka, REST for Stocks https://community.cloudera.com/t5/Community-Articles/Real-Time-Stock-Processing-With-Apache-NiFi-and-Apache-Kafka/ta-p/249221
+* MongoDB https://community.cloudera.com/t5/Community-Articles/Exporting-and-Importing-Data-from-MongoDB-in-the-Cloud-with/ta-p/249470
+* PowerPoint https://community.cloudera.com/t5/Community-Articles/Converting-PowerPoint-Presentations-into-French-from-English/ta-p/248974
+* Documents to HDFS https://community.cloudera.com/t5/Community-Articles/Scanning-Documents-into-Data-Lakes-via-Tesseract-MQTT-Python/ta-p/248492
+* Flight Data https://community.cloudera.com/t5/Community-Articles/Ingesting-Flight-Data-ADS-B-USB-Receiver-with-Apache-NiFi-1/ta-p/247940
+* Street Cameras https://community.cloudera.com/t5/Community-Articles/Ingesting-and-Analyzing-Street-Camera-Data-from-Major-US/ta-p/249194
 
 # NiFi Stateless
 
@@ -167,6 +173,12 @@
 * https://dev.to/tspannhw/tracking-air-quality-with-apache-nifi-cloudera-data-science-workbench-pyspark-and-parquet-28c
 * https://dev.to/tspannhw/updating-machine-learning-models-at-the-edge-with-apache-nifi-and-minifi-3ama
 * https://community.cloudera.com/t5/Community-Articles/Using-Apache-NiFi-with-Apache-MXNet-GluonCV-for-YOLO-3-Deep/ta-p/248979?es_id=10e1da1507
+* https://community.cloudera.com/t5/Community-Articles/Apache-NiFi-Processor-for-Apache-MXNet-SSD-Single-Shot/ta-p/249240
+* https://community.cloudera.com/t5/Community-Articles/Apache-Deep-Learning-101-Processing-Apache-MXNet-Model/ta-p/247944
+* https://community.cloudera.com/t5/Community-Articles/Detecting-Language-with-Apache-NiFi/ta-p/248424
+* https://community.cloudera.com/t5/Community-Articles/Steganography-with-Apache-NiFi/ta-p/244728
+* Model Servers https://community.cloudera.com/t5/Community-Articles/Using-the-new-MXNet-Model-Server-with-Apache-NiFi/ta-p/247555
+* https://github.com/tspannhw/OpenSourceComputerVision
 
 # Best Practices
 
@@ -198,6 +210,9 @@
 * https://nipyapi.readthedocs.io/en/latest/
 * https://community.cloudera.com/t5/Community-Articles/How-to-create-user-generated-keys-for-securing-NiFi/ta-p/245551
 * https://github.com/tspannhw/BackupRegistry
+* https://community.cloudera.com/t5/Community-Articles/DevOps-Tips-Using-the-Apache-NiFi-Toolkit-with-Apache-NiFI-1/ta-p/248376
+* https://community.cloudera.com/t5/Community-Articles/Big-Data-DevOps-Apache-NiFi-Flow-Versioning-and-Automation/ta-p/247976
+
 
 # Workshops & Crash Courses
 
@@ -253,6 +268,11 @@
 * https://github.com/jdye64/nifi-addons
 * https://github.com/apsaltis/nifi-soap
 * https://github.com/simonellistonball/PiWiNiFi
+* https://github.com/tspannhw/nifi-corenlp-processor
+* https://github.com/tspannhw/nifi-extracttext-processor
+* https://github.com/tspannhw/nifi-nlp-processor
+* https://community.cloudera.com/t5/Community-Articles/Apache-NiFi-Processor-Building-a-SQL-DDL-Schema-From-A-JSON/ta-p/247989
+* https://github.com/iss-lab/nifi-stanfordcorenlp-processor
 
 # Migrate Flume Flows to NiFi
 ## JMS, RDBMS, Kafka, Syslog, Twitter, Parquet, Kudu, Hive, HDFS, REST
