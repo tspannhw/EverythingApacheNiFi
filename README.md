@@ -17,6 +17,8 @@ Timothy Spann @PaaSDev
 * http://ijokarumawak.github.io/blog/
 * https://pierrevillard.com/
 * https://www.nifi.rocks/
+* https://blog.cloudera.com/?s=nifi
+* https://dzone.com/users/297029/bunkertor.html
 
 # Conference Talks
 
@@ -35,4 +37,8 @@ Timothy Spann @PaaSDev
 # Reporting Tasks
 
 * https://www.nifi.rocks/developing-a-custom-apache-nifi-reporting-task/
+
+# Templates and Examples
+
+* https://github.com/xmlking/nifi-examples
 
