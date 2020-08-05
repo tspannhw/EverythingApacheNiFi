@@ -97,7 +97,7 @@
 # ETL / ELT / CDC / Load / Ingest
 
 * https://datahovel.com/2019/11/14/big-data-and-stream-processing-101-part-4-how-to-do-a-simple-key-value-enrichment-in-apache-nifi/
-
+* https://thirdeyedata.io/etl-pipeline-demonstration-using-apache-nifi/
 
 # Dockerization / K8
 
@@ -109,6 +109,7 @@
 * https://dev.to/tspannhw/sql-reporting-task-for-cloudera-flow-management-hdf-apache-nifi-260f
 
 # Error Handling
+
 * https://community.cloudera.com/t5/Community-Articles/How-to-address-JVM-OutOfMemory-errors-in-NiFi/ta-p/244431
 
 # Templates and Examples
@@ -134,6 +135,11 @@
 * Send Messages to Discord Channels https://github.com/tspannhw/NiFiToDiscord
 * Capture Data to SOLR Search Indexes https://github.com/tspannhw/nifi-solr-example
 * Post to Slack https://github.com/tspannhw/nifi-1.10-templates
+* Hosting a Website in NiFi https://github.com/tspannhw/webdataingest
+* Ingest/Export to Cloud Data Warehouse https://github.com/tspannhw/clouddatawarehouse
+* Several use cases https://github.com/tspannhw/ApacheNiFiByExamples
+* Hortonworks Gallery https://github.com/hortonworks-gallery/nifi-templates
+* Apache Examples https://cwiki.apache.org/confluence/display/NIFI/Example+Dataflow+Templates
 
 
 # Sources & Sinks
@@ -160,6 +166,7 @@
 * https://dev.to/tspannhw/easy-deep-learning-in-apache-nifi-with-djl-2d79
 * https://dev.to/tspannhw/tracking-air-quality-with-apache-nifi-cloudera-data-science-workbench-pyspark-and-parquet-28c
 * https://dev.to/tspannhw/updating-machine-learning-models-at-the-edge-with-apache-nifi-and-minifi-3ama
+* https://community.cloudera.com/t5/Community-Articles/Using-Apache-NiFi-with-Apache-MXNet-GluonCV-for-YOLO-3-Deep/ta-p/248979?es_id=10e1da1507
 
 # Best Practices
 
