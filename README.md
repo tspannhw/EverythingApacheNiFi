@@ -140,6 +140,9 @@
 * Several use cases https://github.com/tspannhw/ApacheNiFiByExamples
 * Hortonworks Gallery https://github.com/hortonworks-gallery/nifi-templates
 * Apache Examples https://cwiki.apache.org/confluence/display/NIFI/Example+Dataflow+Templates
+* Cryptocurrency https://github.com/tspannhw/nifi-flows
+* Energy Monitoring https://github.com/tspannhw/nifi-energy-monitoring
+* Leprechaun Detector https://github.com/tspannhw/leprechaun-detector
 
 
 # Sources & Sinks
@@ -161,6 +164,9 @@
 * Documents to HDFS https://community.cloudera.com/t5/Community-Articles/Scanning-Documents-into-Data-Lakes-via-Tesseract-MQTT-Python/ta-p/248492
 * Flight Data https://community.cloudera.com/t5/Community-Articles/Ingesting-Flight-Data-ADS-B-USB-Receiver-with-Apache-NiFi-1/ta-p/247940
 * Street Cameras https://community.cloudera.com/t5/Community-Articles/Ingesting-and-Analyzing-Street-Camera-Data-from-Major-US/ta-p/249194
+* Logs https://github.com/tspannhw/nifi-logs
+* Beacons, BLE https://github.com/tspannhw/minifi-estimote
+* Deep Speech https://github.com/tspannhw/nifi-deepspeech
 
 # NiFi Stateless
 
@@ -179,6 +185,9 @@
 * https://community.cloudera.com/t5/Community-Articles/Steganography-with-Apache-NiFi/ta-p/244728
 * Model Servers https://community.cloudera.com/t5/Community-Articles/Using-the-new-MXNet-Model-Server-with-Apache-NiFi/ta-p/247555
 * https://github.com/tspannhw/OpenSourceComputerVision
+* https://github.com/tspannhw/ApacheDeepLearning202
+* https://github.com/tspannhw/DWS2019Barcelona
+* https://github.com/tspannhw/ApacheDeepLearning101
 
 # Best Practices
 
@@ -273,6 +282,7 @@
 * https://github.com/tspannhw/nifi-nlp-processor
 * https://community.cloudera.com/t5/Community-Articles/Apache-NiFi-Processor-Building-a-SQL-DDL-Schema-From-A-JSON/ta-p/247989
 * https://github.com/iss-lab/nifi-stanfordcorenlp-processor
+* https://github.com/tspannhw/nifi-puttwitter-processor
 
 # Migrate Flume Flows to NiFi
 ## JMS, RDBMS, Kafka, Syslog, Twitter, Parquet, Kudu, Hive, HDFS, REST
