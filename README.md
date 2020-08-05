@@ -79,10 +79,21 @@
 * https://www.calculatedsystems.com/post/the-nifi-expression-language
 * https://martin.atlassian.net/wiki/spaces/lestermartin/pages/740196355/NiFi+Cheat+Sheet
 
+# Understanding NiFi Internals / Architecture
+
+* https://community.cloudera.com/t5/Community-Articles/Understanding-how-NiFi-s-Content-Repository-Archiving-works/ta-p/249418
+* https://community.cloudera.com/t5/Community-Articles/Understanding-NiFi-max-thread-pools-and-processor-concurrent/ta-p/248920
+* https://community.cloudera.com/t5/Community-Articles/Leveraging-group-based-Ranger-authorization-in-NiFi/ta-p/248000
+* https://community.cloudera.com/t5/Community-Articles/NiFi-Understanding-how-to-use-Process-Groups-and-Remote/ta-p/245486
+* https://community.cloudera.com/t5/Community-Articles/How-to-address-JVM-OutOfMemory-errors-in-NiFi/ta-p/244431
+* https://community.cloudera.com/t5/Community-Articles/Understanding-NiFi-processor-s-quot-Run-Duration-quot/ta-p/248921
+* https://community.cloudera.com/t5/Community-Articles/Dissecting-the-NiFi-quot-connection-quot-Heap-usage-and/ta-p/248166
+
+
 # ETL / ELT / CDC / Load / Ingest
 
 * https://datahovel.com/2019/11/14/big-data-and-stream-processing-101-part-4-how-to-do-a-simple-key-value-enrichment-in-apache-nifi/
-* 
+
 
 # Dockerization / K8
 
@@ -143,10 +154,13 @@
 * https://dev.to/tspannhw/apache-nifi-load-balancing-via-load-balanced-connections-593m
 * https://www.datainmotion.dev/2019/06/performance-testing-apache-nifi-part-1.html
 * http://lonnifi.blogspot.com/2019/11/back-pressure-prediction-deep-dive.html
+* https://community.cloudera.com/t5/Community-Articles/HDF-CFM-NIFI-Best-practices-for-setting-up-a-high/ta-p/244999
 
 # How To
 
 * Connect to Atlas https://dev.to/tspannhw/connecting-apache-nifi-to-apache-atlas-for-data-governance-at-scale-in-streaming-f5n
+* https://community.cloudera.com/t5/Community-Articles/How-to-Retrieve-files-from-a-SFTP-server-using-NiFi-GetSFTP/ta-p/245430?search-action-id=37601510770&search-result-uid=245430
+
 
 # IoT, Devices, MQTT, Sensors
 
@@ -162,6 +176,7 @@
 * https://dev.to/tspannhw/nifi-toolkit-cli-for-nifi-1-10-213h
 * https://dev.to/tspannhw/backup-and-restore-nifi-registry-templates-14m
 * https://nipyapi.readthedocs.io/en/latest/
+* https://community.cloudera.com/t5/Community-Articles/How-to-create-user-generated-keys-for-securing-NiFi/ta-p/245551
 
 # Workshops & Crash Courses
 
