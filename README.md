@@ -1,8 +1,14 @@
 # Everything Apache NiFi
 
-Timothy Spann @PaaSDev
+## Timothy Spann @PaaSDev
+
 * https://datainmotion.dev/
 * http://dev.to/tspannhw
+
+# Install
+
+* https://www.cloudera.com/downloads/cdf/cfm-trial.html
+* http://nifi.apache.org/download.html
 
 # Documentation
 
@@ -19,6 +25,17 @@ Timothy Spann @PaaSDev
 * https://www.nifi.rocks/
 * https://blog.cloudera.com/?s=nifi
 * https://dzone.com/users/297029/bunkertor.html
+
+# Community Q&A
+
+* https://community.cloudera.com/t5/forums/searchpage/tab/message?advanced=false&allow_punctuation=false&q=nifi
+* https://apachenifi.slack.com/join/shared_invite
+
+# Software Artefacts
+
+* https://mvnrepository.com/artifact/org.apache.nifi
+* https://github.com/apache/nifi
+* https://hub.docker.com/r/apache/nifi/
 
 # Conference Talks
 
@@ -47,6 +64,8 @@ Timothy Spann @PaaSDev
 * https://dev.to/tspannhw/new-and-improved-it-s-nifi-1k6o
 * https://dev.to/tspannhw/quick-tip-nifi-json-cleanup-3o22
 * https://dev.to/tspannhw/openssl-ssl-hosting-in-nifi-2k5f
+* http://ijokarumawak.github.io/nifi/2017/01/27/nifi-s2s-local-to-aws/
+* https://docs.cloudera.com/HDPDocuments/HDF3/HDF-3.5.1/building-a-dataflow/content/site-to-site.html
 
 # Dockerization / K8
 
@@ -64,6 +83,7 @@ Timothy Spann @PaaSDev
 # Sizing and Performance
 
 * https://www.datainmotion.dev/2020/07/sizing-your-apache-nifi-cluster-for.html
+* https://blog.cloudera.com/benchmarking-nifi-performance-and-scalability/
 
 # Reporting and Monitoring
 
@@ -137,6 +157,10 @@ Timothy Spann @PaaSDev
 # Cloud 
 
 * https://dev.to/tspannhw/streaming-data-with-cloudera-data-flow-cdf-into-public-cloud-cdp-188b
+* https://docs.cloudera.com/cdf-datahub/7.2.0/nifi-hive-ingest/topics/cdf-datahub-nifi-hive-ingest.html
+* https://docs.cloudera.com/cdf-datahub/7.2.0/nifi-hive-ingest/topics/cdf-datahub-hive-ingest-service-account.html   
+* https://docs.cloudera.com/cdf-datahub/7.2.0/nifi-hive-ingest/topics/cdf-datahub-hive-ingest-idbroker-mapping.html
+* https://docs.cloudera.com/cdf-datahub/7.2.0/nifi-hive-ingest/topics/cdf-datahub-hive-ingest-data-target.html
 
 # Custom Processors
 
@@ -153,7 +177,7 @@ Timothy Spann @PaaSDev
 * https://github.com/tspannhw/nifi-tensorflow-processor
 
 # Migrate Flume Flows to NiFi
-## JMS, RDBMS, Kafka, Syslog, Twitter, Parquet, Kudu, Hive, HDFS
+## JMS, RDBMS, Kafka, Syslog, Twitter, Parquet, Kudu, Hive, HDFS, REST
 
 * https://dev.to/tspannhw/migrating-apache-flume-flows-to-apache-nifi-jms-to-x-and-x-to-jms-1g02
 * https://dev.to/tspannhw/migrating-apache-flume-flows-to-apache-nifi-any-relational-database-to-from-anywhere-45d1
