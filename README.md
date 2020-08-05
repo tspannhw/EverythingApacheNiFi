@@ -43,6 +43,7 @@
 
 # Must Read Articles
 
+* https://pierrevillard.com/best-of-nifi/
 * http://lonnifi.blogspot.com/2020/01/rules-integration-with-apache-nifi.html
 * https://www.calculatedsystems.com/post/what-is-nifi-the-core-concepts
 
@@ -79,6 +80,8 @@
 * https://docs.cloudera.com/HDPDocuments/HDF3/HDF-3.5.1/building-a-dataflow/content/site-to-site.html
 * https://www.calculatedsystems.com/post/the-nifi-expression-language
 * https://martin.atlassian.net/wiki/spaces/lestermartin/pages/740196355/NiFi+Cheat+Sheet
+* http://lonnifi.blogspot.com/2020/01/rules-integration-with-apache-nifi.html
+* https://www.calculatedsystems.com/post/getting-started-with-apache-nifi-5-common-questions
 
 # Understanding NiFi Internals / Architecture
 
@@ -149,6 +152,7 @@
 # Sources & Sinks
 
 * HBase/Phoenix https://www.datainmotion.dev/2020/07/phoenix-hbase-nifi-resources.html
+* Operational Database https://www.cloudera.com/tutorials/cdp-cod-phoenix-sql-using-hbase-nifi-kafka.html
 * REST https://www.datainmotion.dev/2020/07/ingesting-all-weather-data-with-apache.html
 * REST https://dev.to/tspannhw/cloudera-flow-management-101-let-s-build-a-simple-rest-ingest-to-cloud-datawarehouse-with-lowcode-powered-by-apache-nifi-2275
 * Search https://dev.to/tspannhw/building-search-indexes-with-apache-nifi-streams-2ea7
@@ -168,11 +172,15 @@
 * Logs https://github.com/tspannhw/nifi-logs
 * Beacons, BLE https://github.com/tspannhw/minifi-estimote
 * Deep Speech https://github.com/tspannhw/nifi-deepspeech
+* Syslog https://www.exabeam.com/siem/apache-nifi-ingest-syslog-data/
+* IBM Event Streams https://www.ibm.com/cloud/blog/connecting-ibm-event-streams-to-apache-nifi
+* Mark Logic JDBC https://www.marklogic.com/blog/apache-nifi-quickstart/
 
 # NiFi Stateless
 
 * https://dev.to/tspannhw/exploring-apache-nifi-1-10-parameters-and-stateless-engine-44n4
 * Example with Kafka https://github.com/tspannhw/stateless-examples
+* https://blog.cloudera.com/paving-the-pathway-to-cloudera-data-platform-with-cloudera-dataflow/
 
 # Machine Learning, Deep Learning, AI
 
@@ -225,6 +233,11 @@
 * https://community.cloudera.com/t5/Community-Articles/DevOps-Tips-Using-the-Apache-NiFi-Toolkit-with-Apache-NiFI-1/ta-p/248376
 * https://community.cloudera.com/t5/Community-Articles/Big-Data-DevOps-Apache-NiFi-Flow-Versioning-and-Automation/ta-p/247976
 
+
+# Quick Starts
+
+* https://github.com/apache/kudu/blob/master/examples/quickstart/nifi/README.adoc
+* https://nifi.apache.org/docs/nifi-docs/html/getting-started.html
 
 # Workshops & Crash Courses
 
