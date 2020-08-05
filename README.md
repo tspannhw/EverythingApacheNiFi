@@ -32,7 +32,12 @@ Timothy Spann @PaaSDev
 * https://dataworkssummit.com/session/apache-deep-learning-101/
 * https://github.com/tspannhw/StrataNYC2018
 * https://feathercast.apache.org/2018/10/02/apache-deep-learning-101-timothy-spann
-* 
+* https://www.slideshare.net/bunkertor/cdf-edge-to-ai-with-cem-april-9-2019-princeton-fod-meetup 
+* https://www.slideshare.net/bunkertor/the-edge-to-ai-deep-dive-barcelona-meetup-march-2019
+* https://www.datainmotion.dev/2019/03/barcelona-dataworks-summit-march-2019.html
+* https://dzone.com/articles/dataworks-summit-and-nosql-day-review-2019-washing
+* https://www.datainmotion.dev/2019/05/dataworks-summit-dc-2019-report.html
+* https://github.com/tspannhw/StrataNYC2019
 
 # Quick Tips
 
@@ -73,3 +78,9 @@ Timothy Spann @PaaSDev
 * https://www.meetup.com/futureofdata-princeton/ 
 * https://www.meetup.com/futureofdata-philadelphia/ 
 
+# Videos
+
+* https://www.youtube.com/user/HadoopSummit/videos
+* https://www.youtube.com/channel/UCDIDMDfje6jAvNE8DGkJ3_w?view_as=subscriber
+
+# Custom Processors
