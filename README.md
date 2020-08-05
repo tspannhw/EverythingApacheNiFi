@@ -161,6 +161,14 @@
 * https://dev.to/tspannhw/using-nifi-cli-to-restore-nifi-flows-from-backups-18p9
 * https://dev.to/tspannhw/nifi-toolkit-cli-for-nifi-1-10-213h
 * https://dev.to/tspannhw/backup-and-restore-nifi-registry-templates-14m
+* https://nipyapi.readthedocs.io/en/latest/
+
+# Workshops & Crash Courses
+
+* https://github.com/aperepel/nifi-workshop-2019
+* https://www.youtube.com/watch?v=fblkgr1PJ0o
+* https://github.com/abajwa-hw/masterclass
+* https://github.com/simonellistonball/masterclass-hdf
 
 # FLaN(ifi)K
 
@@ -201,6 +209,11 @@
 * https://github.com/tspannhw/nifi-imageextractor-processor
 * https://github.com/tspannhw/nifi-puttwitter-processor
 * https://github.com/tspannhw/nifi-tensorflow-processor
+* https://github.com/simonellistonball/nifi-OpenCV
+* https://github.com/jdye64/nifi-openalpr
+* https://github.com/jdye64/nifi-addons
+* https://github.com/apsaltis/nifi-soap
+* https://github.com/simonellistonball/PiWiNiFi
 
 # Migrate Flume Flows to NiFi
 ## JMS, RDBMS, Kafka, Syslog, Twitter, Parquet, Kudu, Hive, HDFS, REST
