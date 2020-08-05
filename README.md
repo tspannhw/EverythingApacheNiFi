@@ -190,6 +190,7 @@
 * https://dev.to/tspannhw/backup-and-restore-nifi-registry-templates-14m
 * https://nipyapi.readthedocs.io/en/latest/
 * https://community.cloudera.com/t5/Community-Articles/How-to-create-user-generated-keys-for-securing-NiFi/ta-p/245551
+* https://github.com/tspannhw/BackupRegistry
 
 # Workshops & Crash Courses
 
