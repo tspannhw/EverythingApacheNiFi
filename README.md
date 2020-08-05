@@ -43,6 +43,9 @@ Timothy Spann @PaaSDev
 
 * https://www.nifi.rocks/record-path-cheat-sheet/
 * https://www.nifi.rocks/expression-language-cheat-sheet/
+* https://dev.to/tspannhw/one-minute-nifi-tip-calcite-sql-notes-561
+* https://dev.to/tspannhw/new-and-improved-it-s-nifi-1k6o
+* https://dev.to/tspannhw/quick-tip-nifi-json-cleanup-3o22
 
 # Dockerization / K8
 
@@ -51,6 +54,7 @@ Timothy Spann @PaaSDev
 # Reporting Tasks
 
 * https://www.nifi.rocks/developing-a-custom-apache-nifi-reporting-task/
+* https://dev.to/tspannhw/sql-reporting-task-for-cloudera-flow-management-hdf-apache-nifi-260f
 
 # Templates and Examples
 
@@ -72,6 +76,45 @@ Timothy Spann @PaaSDev
 
 * HBase/Phoenix https://www.datainmotion.dev/2020/07/phoenix-hbase-nifi-resources.html
 * REST https://www.datainmotion.dev/2020/07/ingesting-all-weather-data-with-apache.html
+* REST https://dev.to/tspannhw/cloudera-flow-management-101-let-s-build-a-simple-rest-ingest-to-cloud-datawarehouse-with-lowcode-powered-by-apache-nifi-2275
+* Search https://dev.to/tspannhw/building-search-indexes-with-apache-nifi-streams-2ea7
+* Twitter https://dev.to/tspannhw/harnessing-the-data-lifecycle-for-customer-experience-optimization-streaming-classifications-on-twitter-streams-2p0f
+* Impala, Kudu, Kafka https://dev.to/tspannhw/read-apache-impala-apache-kudu-tables-and-send-to-apache-kafka-in-bulk-easily-with-apache-nifi-4n3g
+* Google Analytics API https://dev.to/tspannhw/quicktip-ingesting-google-analytics-api-with-apache-nifi-mg1
+* Image Upload / Slack https://dev.to/tspannhw/nifi-1-10-postslack-easy-image-upload-22mh
+
+# NiFi Stateless
+
+* https://dev.to/tspannhw/exploring-apache-nifi-1-10-parameters-and-stateless-engine-44n4
+
+# Machine Learning, Deep Learning, AI
+
+* https://dev.to/tspannhw/easy-deep-learning-in-apache-nifi-with-djl-2d79
+
+# Best Practices
+
+* https://dev.to/tspannhw/no-more-spaghetti-flows-2emd
+* https://dev.to/tspannhw/apache-nifi-load-balancing-via-load-balanced-connections-593m
+
+# How To
+
+* Connect to Atlas https://dev.to/tspannhw/connecting-apache-nifi-to-apache-atlas-for-data-governance-at-scale-in-streaming-f5n
+
+# IoT, Devices, MQTT, Sensors
+
+* https://dev.to/tspannhw/predicting-sensor-readings-with-time-series-machine-learning-3ngc
+* https://dev.to/tspannhw/edgeai-google-coral-with-coral-environmental-sensors-and-tpu-with-nifi-and-minifi-updated-efm-oh9
+* https://dev.to/tspannhw/analyzing-wood-burning-stoves-with-flank-stack-minifi-flink-nifi-kafka-kudu-36on
+
+# Administration,CLI, REST, Management, DevOps, CI/CD
+
+* https://dev.to/tspannhw/apache-nifi-and-nifi-registry-administration-3c92
+* https://dev.to/tspannhw/using-nifi-cli-to-restore-nifi-flows-from-backups-18p9
+* https://dev.to/tspannhw/nifi-toolkit-cli-for-nifi-1-10-213h
+
+# FLaN(ifi)K
+
+* https://dev.to/tspannhw/introducing-mm-flank-an-apache-flink-stack-for-rapid-streaming-development-from-edge-2-ai-5c12
 
 # Meetups
 
@@ -82,6 +125,10 @@ Timothy Spann @PaaSDev
 
 * https://www.youtube.com/user/HadoopSummit/videos
 * https://www.youtube.com/channel/UCDIDMDfje6jAvNE8DGkJ3_w?view_as=subscriber
+
+# Cloud 
+
+* https://dev.to/tspannhw/streaming-data-with-cloudera-data-flow-cdf-into-public-cloud-cdp-188b
 
 # Custom Processors
 
