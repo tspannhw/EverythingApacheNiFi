@@ -84,3 +84,15 @@ Timothy Spann @PaaSDev
 * https://www.youtube.com/channel/UCDIDMDfje6jAvNE8DGkJ3_w?view_as=subscriber
 
 # Custom Processors
+
+* https://github.com/tspannhw/nifi-tensorflow-processor
+* https://github.com/tspannhw/nifi-mxnetinference-processor
+* https://github.com/tspannhw/nifi-extracttext-processor
+* https://github.com/tspannhw/nifi-langdetect-processor
+* https://github.com/tspannhw/nifi-attributecleaner-processor
+* https://github.com/tspannhw/nifi-convertjsontoddl-processor
+* https://github.com/tspannhw/nifi-postimage-processor
+* https://github.com/tspannhw/GetWebCamera
+* https://github.com/tspannhw/nifi-imageextractor-processor
+* https://github.com/tspannhw/nifi-puttwitter-processor
+* https://github.com/tspannhw/nifi-tensorflow-processor
