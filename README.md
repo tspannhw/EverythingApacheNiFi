@@ -88,6 +88,10 @@
 * https://community.cloudera.com/t5/Community-Articles/How-to-address-JVM-OutOfMemory-errors-in-NiFi/ta-p/244431
 * https://community.cloudera.com/t5/Community-Articles/Understanding-NiFi-processor-s-quot-Run-Duration-quot/ta-p/248921
 * https://community.cloudera.com/t5/Community-Articles/Dissecting-the-NiFi-quot-connection-quot-Heap-usage-and/ta-p/248166
+* https://community.cloudera.com/t5/Community-Articles/How-to-expand-existing-NiFi-cluster-fault-tolerance-using/ta-p/245082
+* https://community.cloudera.com/t5/Community-Articles/How-to-determine-which-FlowFiles-are-associated-to-the-same/ta-p/249185
+* https://community.cloudera.com/t5/Community-Articles/How-to-achieve-better-load-balancing-using-NiFi-s-Site-To/ta-p/246279
+* 
 
 
 # ETL / ELT / CDC / Load / Ingest
