@@ -232,6 +232,7 @@
 * https://github.com/tspannhw/BackupRegistry
 * https://community.cloudera.com/t5/Community-Articles/DevOps-Tips-Using-the-Apache-NiFi-Toolkit-with-Apache-NiFI-1/ta-p/248376
 * https://community.cloudera.com/t5/Community-Articles/Big-Data-DevOps-Apache-NiFi-Flow-Versioning-and-Automation/ta-p/247976
+* https://dzone.com/articles/finding-nifi-errors
 
 
 # Quick Starts
@@ -319,4 +320,9 @@
 
 * https://www.cloudera.com/content/dam/www/marketing/resources/solution-briefs/data-in-motion-philosophy.pdf.landing.html
 
+# Legacy / Older Editions
 
+* https://github.com/jfrazee/awesome-nifi
+* https://dzone.com/articles/apache-nifi-10-cheatsheet
+* https://dzone.com/articles/monitoring-for-apache-nifi-17
+* https://www.cdata.com/kb/tech/salesforce-jdbc-apache-nifi.rst
