@@ -133,6 +133,7 @@
 * NiFi + Kafka Connect Pipeline HDFS https://github.com/tspannhw/NiFItoKafkaConnect
 * Send Messages to Discord Channels https://github.com/tspannhw/NiFiToDiscord
 * Capture Data to SOLR Search Indexes https://github.com/tspannhw/nifi-solr-example
+* Post to Slack https://github.com/tspannhw/nifi-1.10-templates
 
 
 # Sources & Sinks
@@ -152,6 +153,7 @@
 # NiFi Stateless
 
 * https://dev.to/tspannhw/exploring-apache-nifi-1-10-parameters-and-stateless-engine-44n4
+* Example with Kafka https://github.com/tspannhw/stateless-examples
 
 # Machine Learning, Deep Learning, AI
 
@@ -254,6 +256,7 @@
 * https://dev.to/tspannhw/migrating-apache-flume-flows-to-apache-nifi-twitter-source-to-kafka-sink-31d1
 * https://dev.to/tspannhw/migrating-apache-flume-flows-to-apache-nifi-kafka-source-to-apache-parquet-on-hdfs-1npb
 * https://dev.to/tspannhw/migrating-apache-flume-flows-to-apache-nifi-kafka-source-to-hdfs-kudu-file-hive-55gj
+* Templates https://github.com/tspannhw/flume-to-nifi
 
 # Misc
 
