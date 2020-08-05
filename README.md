@@ -85,6 +85,7 @@ Timothy Spann @PaaSDev
 * Image Upload / Slack https://dev.to/tspannhw/nifi-1-10-postslack-easy-image-upload-22mh
 * Hive / ORC https://dev.to/tspannhw/using-grovepi-with-raspberry-pi-and-minifi-agents-for-data-ingest-to-parquet-kudu-orc-kafka-hive-and-impala-2h9k
 * REST / Monitoring https://dev.to/tspannhw/monitoring-cloudera-edge-flow-manager-and-cloudera-streams-messaging-manager-with-apache-nifi-387k
+* Generate JSON https://dev.to/tspannhw/generating-json-data-in-apache-nifi-4apo
 
 # NiFi Stateless
 
@@ -94,11 +95,13 @@ Timothy Spann @PaaSDev
 
 * https://dev.to/tspannhw/easy-deep-learning-in-apache-nifi-with-djl-2d79
 * https://dev.to/tspannhw/tracking-air-quality-with-apache-nifi-cloudera-data-science-workbench-pyspark-and-parquet-28c
+* https://dev.to/tspannhw/updating-machine-learning-models-at-the-edge-with-apache-nifi-and-minifi-3ama
 
 # Best Practices
 
 * https://dev.to/tspannhw/no-more-spaghetti-flows-2emd
 * https://dev.to/tspannhw/apache-nifi-load-balancing-via-load-balanced-connections-593m
+* https://www.datainmotion.dev/2019/06/performance-testing-apache-nifi-part-1.html
 
 # How To
 
@@ -115,6 +118,7 @@ Timothy Spann @PaaSDev
 * https://dev.to/tspannhw/apache-nifi-and-nifi-registry-administration-3c92
 * https://dev.to/tspannhw/using-nifi-cli-to-restore-nifi-flows-from-backups-18p9
 * https://dev.to/tspannhw/nifi-toolkit-cli-for-nifi-1-10-213h
+* https://dev.to/tspannhw/backup-and-restore-nifi-registry-templates-14m
 
 # FLaN(ifi)K
 
