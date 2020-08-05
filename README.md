@@ -46,6 +46,7 @@ Timothy Spann @PaaSDev
 * https://dev.to/tspannhw/one-minute-nifi-tip-calcite-sql-notes-561
 * https://dev.to/tspannhw/new-and-improved-it-s-nifi-1k6o
 * https://dev.to/tspannhw/quick-tip-nifi-json-cleanup-3o22
+* https://dev.to/tspannhw/openssl-ssl-hosting-in-nifi-2k5f
 
 # Dockerization / K8
 
@@ -82,6 +83,8 @@ Timothy Spann @PaaSDev
 * Impala, Kudu, Kafka https://dev.to/tspannhw/read-apache-impala-apache-kudu-tables-and-send-to-apache-kafka-in-bulk-easily-with-apache-nifi-4n3g
 * Google Analytics API https://dev.to/tspannhw/quicktip-ingesting-google-analytics-api-with-apache-nifi-mg1
 * Image Upload / Slack https://dev.to/tspannhw/nifi-1-10-postslack-easy-image-upload-22mh
+* Hive / ORC https://dev.to/tspannhw/using-grovepi-with-raspberry-pi-and-minifi-agents-for-data-ingest-to-parquet-kudu-orc-kafka-hive-and-impala-2h9k
+* REST / Monitoring https://dev.to/tspannhw/monitoring-cloudera-edge-flow-manager-and-cloudera-streams-messaging-manager-with-apache-nifi-387k
 
 # NiFi Stateless
 
@@ -90,6 +93,7 @@ Timothy Spann @PaaSDev
 # Machine Learning, Deep Learning, AI
 
 * https://dev.to/tspannhw/easy-deep-learning-in-apache-nifi-with-djl-2d79
+* https://dev.to/tspannhw/tracking-air-quality-with-apache-nifi-cloudera-data-science-workbench-pyspark-and-parquet-28c
 
 # Best Practices
 
@@ -143,4 +147,16 @@ Timothy Spann @PaaSDev
 * https://github.com/tspannhw/nifi-imageextractor-processor
 * https://github.com/tspannhw/nifi-puttwitter-processor
 * https://github.com/tspannhw/nifi-tensorflow-processor
+
+# Migrate Flume Flows to NiFi
+## JMS, RDBMS, Kafka, Syslog, Twitter, Parquet, Kudu, Hive, HDFS
+
+* https://dev.to/tspannhw/migrating-apache-flume-flows-to-apache-nifi-jms-to-x-and-x-to-jms-1g02
+* https://dev.to/tspannhw/migrating-apache-flume-flows-to-apache-nifi-any-relational-database-to-from-anywhere-45d1
+* https://dev.to/tspannhw/migrating-apache-flume-flows-to-apache-nifi-kafka-source-to-http-rest-sink-and-http-rest-source-to-kafka-sink-1257
+* https://dev.to/tspannhw/migrating-apache-flume-flows-to-apache-nifi-syslog-to-kafka-3a1k
+* https://dev.to/tspannhw/migrating-apache-flume-flows-to-apache-nifi-twitter-source-to-kafka-sink-31d1
+* https://dev.to/tspannhw/migrating-apache-flume-flows-to-apache-nifi-kafka-source-to-apache-parquet-on-hdfs-1npb
+* https://dev.to/tspannhw/migrating-apache-flume-flows-to-apache-nifi-kafka-source-to-hdfs-kudu-file-hive-55gj
+
 
