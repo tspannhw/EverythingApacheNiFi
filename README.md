@@ -68,4 +68,8 @@ Timothy Spann @PaaSDev
 * HBase/Phoenix https://www.datainmotion.dev/2020/07/phoenix-hbase-nifi-resources.html
 * REST https://www.datainmotion.dev/2020/07/ingesting-all-weather-data-with-apache.html
 
+# Meetups
+
+* https://www.meetup.com/futureofdata-princeton/ 
+* https://www.meetup.com/futureofdata-philadelphia/ 
 
