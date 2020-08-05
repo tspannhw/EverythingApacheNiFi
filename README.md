@@ -42,3 +42,20 @@ Timothy Spann @PaaSDev
 
 * https://github.com/xmlking/nifi-examples
 
+# Sizing and Performance
+
+* https://www.datainmotion.dev/2020/07/sizing-your-apache-nifi-cluster-for.html
+
+# Reporting and Monitoring
+
+* https://www.datainmotion.dev/2020/07/report-on-this-apache-nifi-1114-monitor.html
+
+# Use Cases
+
+* Retail Price Comparisons https://github.com/tspannhw/retail-dynamic-shelf-pricing/tree/main
+
+# Sources & Sinks
+
+* HBase/Phoenix https://www.datainmotion.dev/2020/07/phoenix-hbase-nifi-resources.html
+
+
