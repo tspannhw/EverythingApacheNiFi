@@ -24,6 +24,15 @@ Timothy Spann @PaaSDev
 
 * https://github.com/alopresto/slides
 * http://slideshare.com/bunkertor
+* https://github.com/tspannhw/dws2017sydney
+* https://community.cloudera.com/t5/Community-Articles/Real-Time-Ingesting-and-Transforming-Sensor-and-Social-Data/ta-p/247202
+* http://iotfusion.net/session/enterprise-iiot-edge-processing-with-apache-nifi-minifi-and-deep-learning/
+* https://www.slideshare.net/bunkertor/deep-learning-on-hdp-2018-prague
+* https://www.slideshare.net/bunkertor/minifi-and-apache-nifi-iot-in-berlin-germany-2018
+* https://dataworkssummit.com/session/apache-deep-learning-101/
+* https://github.com/tspannhw/StrataNYC2018
+* https://feathercast.apache.org/2018/10/02/apache-deep-learning-101-timothy-spann
+* 
 
 # Quick Tips
 
@@ -57,5 +66,6 @@ Timothy Spann @PaaSDev
 # Sources & Sinks
 
 * HBase/Phoenix https://www.datainmotion.dev/2020/07/phoenix-hbase-nifi-resources.html
+* REST https://www.datainmotion.dev/2020/07/ingesting-all-weather-data-with-apache.html
 
 
