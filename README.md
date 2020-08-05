@@ -176,6 +176,9 @@
 * IBM Event Streams https://www.ibm.com/cloud/blog/connecting-ibm-event-streams-to-apache-nifi
 * Mark Logic JDBC https://www.marklogic.com/blog/apache-nifi-quickstart/
 
+# Building Custom Processors
+* https://community.cloudera.com/t5/Community-Articles/Building-a-Custom-Processor-Using-IntelliJ/ta-p/244343
+
 # NiFi Stateless
 
 * https://dev.to/tspannhw/exploring-apache-nifi-1-10-parameters-and-stateless-engine-44n4
