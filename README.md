@@ -92,7 +92,6 @@
 * https://community.cloudera.com/t5/Community-Articles/How-to-expand-existing-NiFi-cluster-fault-tolerance-using/ta-p/245082
 * https://community.cloudera.com/t5/Community-Articles/How-to-determine-which-FlowFiles-are-associated-to-the-same/ta-p/249185
 * https://community.cloudera.com/t5/Community-Articles/How-to-achieve-better-load-balancing-using-NiFi-s-Site-To/ta-p/246279
-* 
 
 
 # ETL / ELT / CDC / Load / Ingest
@@ -125,9 +124,16 @@
 
 * https://www.datainmotion.dev/2020/07/report-on-this-apache-nifi-1114-monitor.html
 
-# Use Cases
+# Use Cases and Examples
 
 * Retail Price Comparisons https://github.com/tspannhw/retail-dynamic-shelf-pricing/tree/main
+* Sensors https://github.com/tspannhw/meetup-sensors
+* Twitter to Cloud https://github.com/tspannhw/ClouderaNow2020
+* Airline Sentiment https://github.com/tspannhw/airline-sentiment-streaming
+* NiFi + Kafka Connect Pipeline HDFS https://github.com/tspannhw/NiFItoKafkaConnect
+* Send Messages to Discord Channels https://github.com/tspannhw/NiFiToDiscord
+* Capture Data to SOLR Search Indexes https://github.com/tspannhw/nifi-solr-example
+
 
 # Sources & Sinks
 
@@ -185,6 +191,7 @@
 
 # Workshops & Crash Courses
 
+* https://github.com/tspannhw/ClouderaFlowManagementWorkshop
 * https://github.com/aperepel/nifi-workshop-2019
 * https://www.youtube.com/watch?v=fblkgr1PJ0o
 * https://github.com/abajwa-hw/masterclass
@@ -218,6 +225,8 @@
 
 # Custom Processors
 
+* https://github.com/tspannhw/ExecuteClouderaML
+* https://github.com/tspannhw/nifi-djl-processor
 * https://github.com/tspannhw/nifi-tensorflow-processor
 * https://github.com/tspannhw/nifi-mxnetinference-processor
 * https://github.com/tspannhw/nifi-extracttext-processor
