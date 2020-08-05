@@ -143,6 +143,7 @@
 * Cryptocurrency https://github.com/tspannhw/nifi-flows
 * Energy Monitoring https://github.com/tspannhw/nifi-energy-monitoring
 * Leprechaun Detector https://github.com/tspannhw/leprechaun-detector
+* More Examples https://www.batchiq.com/nifi-flow-examples.html
 
 
 # Sources & Sinks
@@ -188,6 +189,7 @@
 * https://github.com/tspannhw/ApacheDeepLearning202
 * https://github.com/tspannhw/DWS2019Barcelona
 * https://github.com/tspannhw/ApacheDeepLearning101
+* https://community.cloudera.com/t5/Community-Articles/Open-NLP-Example-Apache-NiFi-Processor/ta-p/249293
 
 # Best Practices
 
@@ -208,6 +210,7 @@
 * https://dev.to/tspannhw/predicting-sensor-readings-with-time-series-machine-learning-3ngc
 * https://dev.to/tspannhw/edgeai-google-coral-with-coral-environmental-sensors-and-tpu-with-nifi-and-minifi-updated-efm-oh9
 * https://dev.to/tspannhw/analyzing-wood-burning-stoves-with-flank-stack-minifi-flink-nifi-kafka-kudu-36on
+* https://github.com/tspannhw/IoTFusion2018Talk
 
 # Administration,CLI, REST, Management, DevOps, CI/CD, Security
 
