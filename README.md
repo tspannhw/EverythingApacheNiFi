@@ -16,6 +16,7 @@
 
 # Blogs
 
+* http://lonnifi.blogspot.com/
 * https://www.datainmotion.dev/
 * https://blogs.apache.org/nifi/
 * https://bryanbende.com/
@@ -25,6 +26,8 @@
 * https://www.nifi.rocks/
 * https://blog.cloudera.com/?s=nifi
 * https://dzone.com/users/297029/bunkertor.html
+* https://medium.com/@abdelkrim.hadjidj
+* https://www.calculatedsystems.com/content
 
 # Community Q&A
 
@@ -36,6 +39,11 @@
 * https://mvnrepository.com/artifact/org.apache.nifi
 * https://github.com/apache/nifi
 * https://hub.docker.com/r/apache/nifi/
+
+# Must Read Articles
+
+* http://lonnifi.blogspot.com/2020/01/rules-integration-with-apache-nifi.html
+* https://www.calculatedsystems.com/post/what-is-nifi-the-core-concepts
 
 # Conference Talks
 
@@ -55,6 +63,8 @@
 * https://dzone.com/articles/dataworks-summit-and-nosql-day-review-2019-washing
 * https://www.datainmotion.dev/2019/05/dataworks-summit-dc-2019-report.html
 * https://github.com/tspannhw/StrataNYC2019
+* https://www.slideshare.net/Hadoop_Summit/eventdriven-messaging-and-actions-using-apache-flink-and-apache-nifi
+* https://www.slideshare.net/BryanBende/apache-nifi-sdlc-improvements
 
 # Quick Tips
 
@@ -66,6 +76,13 @@
 * https://dev.to/tspannhw/openssl-ssl-hosting-in-nifi-2k5f
 * http://ijokarumawak.github.io/nifi/2017/01/27/nifi-s2s-local-to-aws/
 * https://docs.cloudera.com/HDPDocuments/HDF3/HDF-3.5.1/building-a-dataflow/content/site-to-site.html
+* https://www.calculatedsystems.com/post/the-nifi-expression-language
+* https://martin.atlassian.net/wiki/spaces/lestermartin/pages/740196355/NiFi+Cheat+Sheet
+
+# ETL / ELT / CDC / Load / Ingest
+
+* https://datahovel.com/2019/11/14/big-data-and-stream-processing-101-part-4-how-to-do-a-simple-key-value-enrichment-in-apache-nifi/
+* 
 
 # Dockerization / K8
 
@@ -75,6 +92,9 @@
 
 * https://www.nifi.rocks/developing-a-custom-apache-nifi-reporting-task/
 * https://dev.to/tspannhw/sql-reporting-task-for-cloudera-flow-management-hdf-apache-nifi-260f
+
+# Error Handling
+* https://community.cloudera.com/t5/Community-Articles/How-to-address-JVM-OutOfMemory-errors-in-NiFi/ta-p/244431
 
 # Templates and Examples
 
@@ -122,6 +142,7 @@
 * https://dev.to/tspannhw/no-more-spaghetti-flows-2emd
 * https://dev.to/tspannhw/apache-nifi-load-balancing-via-load-balanced-connections-593m
 * https://www.datainmotion.dev/2019/06/performance-testing-apache-nifi-part-1.html
+* http://lonnifi.blogspot.com/2019/11/back-pressure-prediction-deep-dive.html
 
 # How To
 
@@ -133,8 +154,9 @@
 * https://dev.to/tspannhw/edgeai-google-coral-with-coral-environmental-sensors-and-tpu-with-nifi-and-minifi-updated-efm-oh9
 * https://dev.to/tspannhw/analyzing-wood-burning-stoves-with-flank-stack-minifi-flink-nifi-kafka-kudu-36on
 
-# Administration,CLI, REST, Management, DevOps, CI/CD
+# Administration,CLI, REST, Management, DevOps, CI/CD, Security
 
+* https://bryanbende.com/development/2017/10/03/apache-nifi-openid-connect
 * https://dev.to/tspannhw/apache-nifi-and-nifi-registry-administration-3c92
 * https://dev.to/tspannhw/using-nifi-cli-to-restore-nifi-flows-from-backups-18p9
 * https://dev.to/tspannhw/nifi-toolkit-cli-for-nifi-1-10-213h
@@ -151,8 +173,10 @@
 
 # Videos
 
+* https://www.youtube.com/watch?v=IUjz-rhA3xs
 * https://www.youtube.com/user/HadoopSummit/videos
 * https://www.youtube.com/channel/UCDIDMDfje6jAvNE8DGkJ3_w?view_as=subscriber
+* https://www.youtube.com/user/clouderahadoop
 
 # Cloud 
 
@@ -161,6 +185,8 @@
 * https://docs.cloudera.com/cdf-datahub/7.2.0/nifi-hive-ingest/topics/cdf-datahub-hive-ingest-service-account.html   
 * https://docs.cloudera.com/cdf-datahub/7.2.0/nifi-hive-ingest/topics/cdf-datahub-hive-ingest-idbroker-mapping.html
 * https://docs.cloudera.com/cdf-datahub/7.2.0/nifi-hive-ingest/topics/cdf-datahub-hive-ingest-data-target.html
+* https://www.calculatedsystems.com/post/moving-data-to-the-cloud
+* https://medium.com/swlh/operationalising-nifi-on-kubernetes-1a8e0ae16a6c
 
 # Custom Processors
 
@@ -186,5 +212,9 @@
 * https://dev.to/tspannhw/migrating-apache-flume-flows-to-apache-nifi-twitter-source-to-kafka-sink-31d1
 * https://dev.to/tspannhw/migrating-apache-flume-flows-to-apache-nifi-kafka-source-to-apache-parquet-on-hdfs-1npb
 * https://dev.to/tspannhw/migrating-apache-flume-flows-to-apache-nifi-kafka-source-to-hdfs-kudu-file-hive-55gj
+
+# Misc
+
+* https://www.cloudera.com/content/dam/www/marketing/resources/solution-briefs/data-in-motion-philosophy.pdf.landing.html
 
 
