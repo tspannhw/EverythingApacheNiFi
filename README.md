@@ -238,6 +238,9 @@
 
 * https://github.com/apache/kudu/blob/master/examples/quickstart/nifi/README.adoc
 * https://nifi.apache.org/docs/nifi-docs/html/getting-started.html
+* https://community.cloudera.com/t5/Community-Articles/Launching-a-NiFi-Docker-Instance/ta-p/248197
+* https://hub.docker.com/r/apache/nifi/
+* https://docs.cloudera.com/cdf-datahub/7.1.0/quick-start-fm/topics/cdf-datahub-fm-cluster-setup-quick-start-overview.html
 
 # Workshops & Crash Courses
 
