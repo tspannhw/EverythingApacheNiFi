@@ -176,9 +176,6 @@
 * IBM Event Streams https://www.ibm.com/cloud/blog/connecting-ibm-event-streams-to-apache-nifi
 * Mark Logic JDBC https://www.marklogic.com/blog/apache-nifi-quickstart/
 
-# Building Custom Processors
-* https://community.cloudera.com/t5/Community-Articles/Building-a-Custom-Processor-Using-IntelliJ/ta-p/244343
-
 # NiFi Stateless
 
 * https://dev.to/tspannhw/exploring-apache-nifi-1-10-parameters-and-stateless-engine-44n4
@@ -236,6 +233,7 @@
 * https://community.cloudera.com/t5/Community-Articles/DevOps-Tips-Using-the-Apache-NiFi-Toolkit-with-Apache-NiFI-1/ta-p/248376
 * https://community.cloudera.com/t5/Community-Articles/Big-Data-DevOps-Apache-NiFi-Flow-Versioning-and-Automation/ta-p/247976
 * https://dzone.com/articles/finding-nifi-errors
+* https://community.cloudera.com/t5/Community-Articles/Building-a-Custom-Apache-NiFi-Operations-Dashboard-Part-1/ta-p/249060
 
 
 # Quick Starts
@@ -280,8 +278,17 @@
 * https://www.calculatedsystems.com/post/moving-data-to-the-cloud
 * https://medium.com/swlh/operationalising-nifi-on-kubernetes-1a8e0ae16a6c
 
+
+# Building Custom Processors
+
+* https://community.cloudera.com/t5/Community-Articles/Building-a-Custom-Processor-Using-IntelliJ/ta-p/244343
+* https://community.hortonworks.com/content/kbentry/116803/building-a-custom-processor-in-apache-nifi-12-for.html
+* https://github.com/alopresto/nifi-byop-dws
+* https://github.com/DevWorxCo/nifi-starter
+
 # Custom Processors
 
+* https://github.com/bbende/nifi-dependency-example
 * https://github.com/tspannhw/ExecuteClouderaML
 * https://github.com/tspannhw/nifi-djl-processor
 * https://github.com/tspannhw/nifi-tensorflow-processor
@@ -297,15 +304,44 @@
 * https://github.com/tspannhw/nifi-tensorflow-processor
 * https://github.com/simonellistonball/nifi-OpenCV
 * https://github.com/jdye64/nifi-openalpr
+* https://github.com/AnkurJais/nifi-bigquery-custom-processor
+* https://github.com/dDMarley/nifi-custom-processors
+* https://github.com/myagmurs/bitmapprocessor
+* https://github.com/linksmart/nifi-customlistentcp-processor
+* https://github.com/andrewpalumbo/nifi-processors
+* https://github.com/ligaroba/apache-nifi-smpp-processor
+* https://github.com/shekhar-kotekar/nifi-word-count-custom-processor
+* https://github.com/philenius/sum-json-array-of-numbers-custom-nifi-processor
+* https://github.com/bongye/nifi-bitcoin
+* https://github.com/ahmednaggar19/nifi-custom-processor-count-record-attribute
+* https://github.com/PPcraft/iec104-bundle
+* https://github.com/A-Hussien2011/ConvertJsonToHQL
+* https://github.com/gudiseva/nifi-kafka-timestamp
+* https://github.com/davidglevy/example-nifi-csv-cleaner
+* https://github.com/kai5263499/nifi-binarygrpc
+* https://github.com/adammichalsky/Hana-Custom-Processor
+* https://github.com/cukuzz/nifi-custom-hdfs-processors-example
 * https://github.com/jdye64/nifi-addons
 * https://github.com/apsaltis/nifi-soap
+* https://github.com/jdye64/nifi-gpiorest
+* https://github.com/everwatchsolutions/aces-nifi-processors-bundle
+* https://github.com/swiftops/nifi-infinispan-processor
+* https://github.com/franziska-w/nifi-custom-processor
+* https://github.com/wahid18benz/Apache-NiFi-Custom-Processor
+* https://github.com/laurencedaluz/nifi-satori-bundle
+* https://github.com/mataram/Nifi-NSQ-Consumer
+* https://github.com/ORION6194/ApacheNifi-CustomProcessors
+* https://github.com/bpenelli/nifi-bpenelli-bundle-1.8.0
 * https://github.com/simonellistonball/PiWiNiFi
 * https://github.com/tspannhw/nifi-corenlp-processor
+* https://github.com/nagarajjayakumar/nifi-hana-custom-processor
 * https://github.com/tspannhw/nifi-extracttext-processor
 * https://github.com/tspannhw/nifi-nlp-processor
+* https://github.com/dormstd/nifi-CKANProcessorBundle
 * https://community.cloudera.com/t5/Community-Articles/Apache-NiFi-Processor-Building-a-SQL-DDL-Schema-From-A-JSON/ta-p/247989
 * https://github.com/iss-lab/nifi-stanfordcorenlp-processor
 * https://github.com/tspannhw/nifi-puttwitter-processor
+* https://github.com/compose-ex/nifi-compose-bundle
 
 # Migrate Flume Flows to NiFi
 ## JMS, RDBMS, Kafka, Syslog, Twitter, Parquet, Kudu, Hive, HDFS, REST
@@ -329,3 +365,5 @@
 * https://dzone.com/articles/apache-nifi-10-cheatsheet
 * https://dzone.com/articles/monitoring-for-apache-nifi-17
 * https://www.cdata.com/kb/tech/salesforce-jdbc-apache-nifi.rst
+* https://github.com/UKHomeOffice/cdp-nifi-processors
+* https://github.com/dstreev/nifi-processor-examples
