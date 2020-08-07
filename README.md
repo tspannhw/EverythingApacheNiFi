@@ -46,6 +46,7 @@
 * https://pierrevillard.com/best-of-nifi/
 * http://lonnifi.blogspot.com/2020/01/rules-integration-with-apache-nifi.html
 * https://www.calculatedsystems.com/post/what-is-nifi-the-core-concepts
+* https://martin.atlassian.net/wiki/spaces/lestermartin/pages/740196355/NiFi+Cheat+Sheet
 
 # Conference Talks
 
