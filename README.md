@@ -360,6 +360,10 @@
 
 * https://www.cloudera.com/content/dam/www/marketing/resources/solution-briefs/data-in-motion-philosophy.pdf.landing.html
 
+# Other Languages
+
+* https://apuntandoanulo.com/category/apache-nifi/
+
 # Legacy / Older Editions
 
 * https://github.com/jfrazee/awesome-nifi
