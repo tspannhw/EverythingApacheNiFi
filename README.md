@@ -5,6 +5,10 @@
 * https://datainmotion.dev/
 * http://dev.to/tspannhw
 
+# Updates
+
+* Apache NiFi 1.12 - https://twitter.com/pvillard31/status/1296469452180119553
+
 # Install
 
 * https://www.cloudera.com/downloads/cdf/cfm-trial.html
