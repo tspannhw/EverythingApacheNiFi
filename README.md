@@ -277,6 +277,8 @@
 * https://www.youtube.com/watch?v=TmdROpjVtM4
 * https://www.youtube.com/watch?v=IUjz-rhA3xs
 * https://www.youtube.com/watch?v=Tt8TSlHu7PE
+* https://www.youtube.com/watch?v=QQks0KAvT58
+* https://www.youtube.com/watch?v=QWXXaRE1VUI
 
 
 # Cloud 
