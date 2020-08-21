@@ -272,6 +272,12 @@
 * https://www.youtube.com/user/HadoopSummit/videos
 * https://www.youtube.com/channel/UCDIDMDfje6jAvNE8DGkJ3_w?view_as=subscriber
 * https://www.youtube.com/user/clouderahadoop
+* https://www.youtube.com/watch?v=XsL63ZQYmLE
+* https://www.youtube.com/watch?v=xsC4cjSBv8k
+* https://www.youtube.com/watch?v=TmdROpjVtM4
+* https://www.youtube.com/watch?v=IUjz-rhA3xs
+* https://www.youtube.com/watch?v=Tt8TSlHu7PE
+
 
 # Cloud 
 
