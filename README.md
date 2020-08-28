@@ -9,6 +9,11 @@
 
 * Apache NiFi 1.12 - https://twitter.com/pvillard31/status/1296469452180119553
 
+# Must Watch Video
+
+* Apache NiFi Anti-Patterns Part 2: Flow Layout by Mark:  https://www.youtube.com/watch?v=v1CoQk730qs&feature=youtu.be
+* Apache NiFi Anti-Patterns, Part 1: by Mark: https://www.youtube.com/watch?v=RjWstt7nRVY
+
 # Install
 
 * https://www.cloudera.com/downloads/cdf/cfm-trial.html
