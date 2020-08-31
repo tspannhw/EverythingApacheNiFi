@@ -363,6 +363,7 @@
 * https://github.com/iss-lab/nifi-stanfordcorenlp-processor
 * https://github.com/tspannhw/nifi-puttwitter-processor
 * https://github.com/compose-ex/nifi-compose-bundle
+* https://github.com/BRGM/Nifi-WKB-to-WKT-processor
 
 # Migrate Flume Flows to NiFi
 ## JMS, RDBMS, Kafka, Syslog, Twitter, Parquet, Kudu, Hive, HDFS, REST
