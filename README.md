@@ -217,6 +217,9 @@
 * http://lonnifi.blogspot.com/2019/11/back-pressure-prediction-deep-dive.html
 * https://community.cloudera.com/t5/Community-Articles/HDF-CFM-NIFI-Best-practices-for-setting-up-a-high/ta-p/244999
 
+# Tutorials
+* https://www.cloudera.com/tutorials/analyze-transit-patterns-with-apache-nifi.html
+
 # How To
 
 * Connect to Atlas https://dev.to/tspannhw/connecting-apache-nifi-to-apache-atlas-for-data-governance-at-scale-in-streaming-f5n
