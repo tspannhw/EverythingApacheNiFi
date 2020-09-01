@@ -311,6 +311,7 @@
 
 * https://github.com/bbende/nifi-dependency-example
 * https://github.com/tspannhw/ExecuteClouderaML
+* https://github.com/minyk/nifi-headlessbrowser-processor
 * https://github.com/tspannhw/nifi-djl-processor
 * https://github.com/tspannhw/nifi-tensorflow-processor
 * https://github.com/tspannhw/nifi-mxnetinference-processor
