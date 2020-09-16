@@ -186,6 +186,8 @@
 * Syslog https://www.exabeam.com/siem/apache-nifi-ingest-syslog-data/
 * IBM Event Streams https://www.ibm.com/cloud/blog/connecting-ibm-event-streams-to-apache-nifi
 * Mark Logic JDBC https://www.marklogic.com/blog/apache-nifi-quickstart/
+* Microsoft Teams https://aussie.nifi.ninja/blog/
+* Office 365 https://github.com/pontus-vision/pontus-nifi-processors-office365
 
 # NiFi Stateless
 
