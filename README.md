@@ -8,6 +8,7 @@
 # Updates
 
 * Apache NiFi 1.12 - https://twitter.com/pvillard31/status/1296469452180119553
+* Apache NiFi on K8 - https://twitter.com/AppInt4All/status/1306643414725750784?s=20
 
 # Must Watch Video
 
