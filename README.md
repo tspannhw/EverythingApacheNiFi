@@ -12,6 +12,7 @@
 
 # Must Watch Video
 
+* Apache NiFi Part 4: Scheduling: https://www.youtube.com/watch?v=pZq0EbfDBy4
 * Apache NiFi Part 3: Load Balancing: https://www.youtube.com/watch?v=by9P0Zi8Dk8
 * Apache NiFi Anti-Patterns Part 2: Flow Layout by Mark:  https://www.youtube.com/watch?v=v1CoQk730qs&feature=youtu.be
 * Apache NiFi Anti-Patterns, Part 1: by Mark: https://www.youtube.com/watch?v=RjWstt7nRVY
