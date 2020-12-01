@@ -21,10 +21,20 @@
 
 * https://www.cloudera.com/downloads/cdf/cfm-trial.html
 * http://nifi.apache.org/download.html
+* https://nifi.apache.org/docs/nifi-docs/html/walkthroughs.html
 
 # Documentation
 
 * https://nifi.apache.org/docs.html
+* https://nifi.apache.org/docs/nifi-docs/html/overview.html
+* https://nifi.apache.org/docs/nifi-docs/html/getting-started.html
+* https://nifi.apache.org/docs/nifi-docs/html/expression-language-guide.html
+* https://nifi.apache.org/docs/nifi-docs/html/record-path-guide.html
+* https://nifi.apache.org/docs/nifi-docs/html/nifi-in-depth.html
+* https://nifi.apache.org/docs/nifi-docs/html/developer-guide.html
+* https://nifi.apache.org/docs/nifi-docs/rest-api/index.html
+* https://nifi.apache.org/docs/nifi-docs/html/user-guide.html
+* https://nifi.apache.org/docs/nifi-docs/html/toolkit-guide.html
 
 # Blogs
 
@@ -96,6 +106,7 @@
 * https://martin.atlassian.net/wiki/spaces/lestermartin/pages/740196355/NiFi+Cheat+Sheet
 * http://lonnifi.blogspot.com/2020/01/rules-integration-with-apache-nifi.html
 * https://www.calculatedsystems.com/post/getting-started-with-apache-nifi-5-common-questions
+* https://levelup.gitconnected.com/an-overview-of-apache-nifi-and-toolkit-cli-deployments-785978dbce3b
 
 # Understanding NiFi Internals / Architecture
 
