@@ -40,6 +40,7 @@
 * https://dzone.com/users/297029/bunkertor.html
 * https://medium.com/@abdelkrim.hadjidj
 * https://www.calculatedsystems.com/content
+* https://mikethomsen.github.io/
 
 # Community Q&A
 
@@ -160,7 +161,8 @@
 * Energy Monitoring https://github.com/tspannhw/nifi-energy-monitoring
 * Leprechaun Detector https://github.com/tspannhw/leprechaun-detector
 * More Examples https://www.batchiq.com/nifi-flow-examples.html
-
+* Email Extraction https://github.com/MikeThomsen/nifi-email-extraction-bundle
+* Data Generation https://github.com/MikeThomsen/nifi-datageneration-bundle
 
 # Sources & Sinks
 
