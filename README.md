@@ -51,6 +51,16 @@
 * https://medium.com/@abdelkrim.hadjidj
 * https://www.calculatedsystems.com/content
 * https://mikethomsen.github.io/
+* https://community.cloudera.com/t5/forums/searchpage/tab/message?advanced=false&allow_punctuation=false&q=nifi*
+* https://mvnrepository.com/artifact/org.apache.nifi
+* https://github.com/apache/nifi
+* https://apachenifi.slack.com/join/shared_invite
+* https://hub.docker.com/r/apache/nifi/
+* http://flink.apache.org/
+* https://blog.cloudera.com/benchmarking-nifi-performance-and-scalability/
+* https://www.youtube.com/watch?v=pZq0EbfDBy4
+* https://medium.com/apache-nifi-security
+https://lonnifi.blogspot.com/
 
 # Community Q&A
 
