@@ -132,6 +132,9 @@
 * https://community.cloudera.com/t5/Community-Articles/How-to-determine-which-FlowFiles-are-associated-to-the-same/ta-p/249185
 * https://community.cloudera.com/t5/Community-Articles/How-to-achieve-better-load-balancing-using-NiFi-s-Site-To/ta-p/246279
 
+# Cloud
+
+* https://community.cloudera.com/t5/Community-Articles/Spark-Structured-Streaming-example-with-CDE/ta-p/302050
 
 # ETL / ELT / CDC / Load / Ingest
 
