@@ -60,7 +60,8 @@
 * https://blog.cloudera.com/benchmarking-nifi-performance-and-scalability/
 * https://www.youtube.com/watch?v=pZq0EbfDBy4
 * https://medium.com/apache-nifi-security
-https://lonnifi.blogspot.com/
+* https://lonnifi.blogspot.com/
+* https://community.cloudera.com/t5/Community-Articles/How-to-use-NiFi-to-write-API-data-to-CDP-CDW/ta-p/306770
 
 # Community Q&A
 
