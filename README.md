@@ -35,6 +35,7 @@
 * https://nifi.apache.org/docs/nifi-docs/rest-api/index.html
 * https://nifi.apache.org/docs/nifi-docs/html/user-guide.html
 * https://nifi.apache.org/docs/nifi-docs/html/toolkit-guide.html
+* https://nifi.apache.org/docs/nifi-docs/rest-api/index.html
 
 # Blogs
 
