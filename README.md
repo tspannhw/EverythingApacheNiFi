@@ -70,6 +70,7 @@
 * https://community.cloudera.com/t5/forums/searchpage/tab/message?advanced=false&allow_punctuation=false&q=nifi
 * https://apachenifi.slack.com/join/shared_invite
 * https://community.cloudera.com/t5/Support-Questions/Nifi-CICD-with-mutiple-flows-having-controller-services/m-p/299771#M219835
+* https://community.cloudera.com/t5/Support-Questions/How-to-add-custom-attributes-to-AttributesToJSON/td-p/308326
 
 # Software Artefacts
 
