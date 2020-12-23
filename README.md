@@ -412,6 +412,32 @@
 * https://dev.to/tspannhw/migrating-apache-flume-flows-to-apache-nifi-kafka-source-to-hdfs-kudu-file-hive-55gj
 * Templates https://github.com/tspannhw/flume-to-nifi
 
+# FDLC, SDLC, DevOps, Backup, Restore, Migration, CI/CD
+
+* https://www.datainmotion.dev/2019/03/apache-nifi-operations-and-monitoring.html
+* https://community.cloudera.com/t5/Community-Articles/How-to-import-a-flow-to-Nifi-registry-in-CDP-Cloud/ta-p/308335
+* https://www.datainmotion.dev/2020/09/devops-working-with-parameter-contexts.html
+* https://www.datainmotion.dev/2020/10/automating-building-migration-backup.html
+* https://www.datainmotion.dev/2020/08/deleting-schemas-from-cloudera-schema.html
+* https://www.datainmotion.dev/2019/09/backup-and-restore-nifi-registry.html
+* https://www.datainmotion.dev/2019/04/simple-apache-nifi-operations-dashboard.html
+
+# CDP Public Cloud, AWS, Azure, GCP
+
+* https://community.cloudera.com/t5/Community-Articles/How-to-use-NiFi-to-write-API-data-to-CDP-CDW/ta-p/306770
+* https://www.datainmotion.dev/2020/04/streaming-data-with-cloudera-data-flow.html
+* https://www.datainmotion.dev/2020/07/flank-in-cloud-huge-cloudera-data.html
+* https://www.datainmotion.dev/2020/12/new-release-for-hdf-352-and-cloudera.html
+* https://www.datainmotion.dev/2020/04/streaming-data-with-cloudera-data-flow.html
+* https://docs.cloudera.com/cdf-datahub/7.2.2/nifi-kafka-ingest/topics/cdf-datahub-fm-kafka-ingest-overview.html
+* https://docs.cloudera.com/cdf-datahub/7.2.2/nifi-hive-ingest/topics/cdf-datahub-nifi-hive-ingest.html
+* https://docs.cloudera.com/cdf-datahub/7.2.2/nifi-hbase-ingest/topics/cdf-datahub-nifi-hbase-ingest.html
+* https://docs.cloudera.com/cdf-datahub/7.2.2/nifi-kudu-ingest/topics/cdf-datahub-nifi-kudu-ingest.html
+* https://docs.cloudera.com/cdf-datahub/7.2.2/nifi-azure-ingest/topics/cdf-datahub-fm-adls-ingest-overview.html
+* https://docs.cloudera.com/cfm/2.0.4/site-to-site/topics/cdf-datahub-site-to-site.html
+* https://docs.cloudera.com/cdf-datahub/7.2.2/nifi-aws-ingest/topics/cdf-datahub-fm-s3-ingest-overview.html
+
+
 # Misc
 
 * https://www.cloudera.com/content/dam/www/marketing/resources/solution-briefs/data-in-motion-philosophy.pdf.landing.html
