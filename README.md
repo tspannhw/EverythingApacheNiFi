@@ -124,6 +124,9 @@
 * Set to Integer SQL Type https://community.cloudera.com/t5/Support-Questions/Nifi-ExectueSQL-how-to-force-a-parameter-to-be-a-string/td-p/240117
 * Make sure to use Cache Server https://community.cloudera.com/t5/Support-Questions/Could-not-connect-to-Distributed-Map-Cache-server-to-get/td-p/269340
 * Static End-Point Security https://community.cloudera.com/t5/Support-Questions/Advanced-Update-Attribute-won-t-display-correctly-in-NiFi/td-p/306729
+* Use -Record https://nifi.apache.org/docs/nifi-docs/components/org.apache.nifi/nifi-standard-nar/1.12.1/org.apache.nifi.processors.standard.QueryDatabaseTableRecord/index.html
+* Merge Attributes https://community.cloudera.com/t5/Support-Questions/Nifi-Processors-status-merge-attributes-into-single-flowfile/td-p/308470
+
 
 
 # Understanding NiFi Internals / Architecture
