@@ -126,7 +126,7 @@
 * Static End-Point Security https://community.cloudera.com/t5/Support-Questions/Advanced-Update-Attribute-won-t-display-correctly-in-NiFi/td-p/306729
 * Use -Record https://nifi.apache.org/docs/nifi-docs/components/org.apache.nifi/nifi-standard-nar/1.12.1/org.apache.nifi.processors.standard.QueryDatabaseTableRecord/index.html
 * Merge Attributes https://community.cloudera.com/t5/Support-Questions/Nifi-Processors-status-merge-attributes-into-single-flowfile/td-p/308470
-
+* https://community.cloudera.com/t5/Support-Questions/NIFI-quot-No-available-buckets-quot-for-saving-flow-version/td-p/308171
 
 
 # Understanding NiFi Internals / Architecture
