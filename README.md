@@ -121,6 +121,10 @@
 * http://lonnifi.blogspot.com/2020/01/rules-integration-with-apache-nifi.html
 * https://www.calculatedsystems.com/post/getting-started-with-apache-nifi-5-common-questions
 * https://levelup.gitconnected.com/an-overview-of-apache-nifi-and-toolkit-cli-deployments-785978dbce3b
+* Set to Integer SQL Type https://community.cloudera.com/t5/Support-Questions/Nifi-ExectueSQL-how-to-force-a-parameter-to-be-a-string/td-p/240117
+* Make sure to use Cache Server https://community.cloudera.com/t5/Support-Questions/Could-not-connect-to-Distributed-Map-Cache-server-to-get/td-p/269340
+* Static End-Point Security https://community.cloudera.com/t5/Support-Questions/Advanced-Update-Attribute-won-t-display-correctly-in-NiFi/td-p/306729
+
 
 # Understanding NiFi Internals / Architecture
 
