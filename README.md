@@ -109,6 +109,9 @@
 
 # Quick Tips
 
+* https://community.cloudera.com/t5/Support-Questions/Nifi-Multiple-predicate-in-recordpath-filter/m-p/306604
+* https://community.cloudera.com/t5/Support-Questions/Can-executesql-processor-store-state-for-incremental-loading/td-p/224975
+* https://community.cloudera.com/t5/Community-Articles/Update-the-Contents-of-FlowFile-by-using-UpdateRecord/ta-p/248267
 * https://www.nifi.rocks/record-path-cheat-sheet/
 * https://www.nifi.rocks/expression-language-cheat-sheet/
 * https://dev.to/tspannhw/one-minute-nifi-tip-calcite-sql-notes-561
