@@ -109,6 +109,9 @@
 
 # Quick Tips
 
+* https://community.cloudera.com/t5/Community-Articles/Connect-Nifi-to-Cloudera-Hive-with-Kerberos-and-TLS/ta-p/249476
+* https://community.cloudera.com/t5/Community-Articles/Part-2-Nifi-flow-creation-to-parse-new-images-and-run-the/ta-p/244380
+
 * https://community.cloudera.com/t5/Support-Questions/Nifi-Multiple-predicate-in-recordpath-filter/m-p/306604
 * https://community.cloudera.com/t5/Support-Questions/Can-executesql-processor-store-state-for-incremental-loading/td-p/224975
 * https://community.cloudera.com/t5/Community-Articles/Update-the-Contents-of-FlowFile-by-using-UpdateRecord/ta-p/248267
