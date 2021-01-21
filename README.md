@@ -274,7 +274,7 @@
 # How To
 
 * Connect to Atlas https://dev.to/tspannhw/connecting-apache-nifi-to-apache-atlas-for-data-governance-at-scale-in-streaming-f5n
-* https://community.cloudera.com/t5/Community-Articles/How-to-Retrieve-files-from-a-SFTP-server-using-NiFi-GetSFTP/ta-p/245430?search-action-id=37601510770&search-result-uid=245430
+* sFTP https://community.cloudera.com/t5/Community-Articles/How-to-Retrieve-files-from-a-SFTP-server-using-NiFi-GetSFTP/ta-p/245430?search-action-id=37601510770&search-result-uid=245430
 
 
 # IoT, Devices, MQTT, Sensors
@@ -453,6 +453,7 @@
 * https://docs.cloudera.com/cdf-datahub/7.2.2/nifi-azure-ingest/topics/cdf-datahub-fm-adls-ingest-overview.html
 * https://docs.cloudera.com/cfm/2.0.4/site-to-site/topics/cdf-datahub-site-to-site.html
 * https://docs.cloudera.com/cdf-datahub/7.2.2/nifi-aws-ingest/topics/cdf-datahub-fm-s3-ingest-overview.html
+* https://docs.cloudera.com/cdf-datahub/7.2.6/planning-your-flow-management-deployment/topics/cdf-datahub-fm-cluster-layout.html
 
 
 # Misc
