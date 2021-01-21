@@ -73,6 +73,7 @@
 * https://community.cloudera.com/t5/Support-Questions/Nifi-CICD-with-mutiple-flows-having-controller-services/m-p/299771#M219835
 * https://community.cloudera.com/t5/Support-Questions/How-to-add-custom-attributes-to-AttributesToJSON/td-p/308326
 * https://community.cloudera.com/t5/Community-Articles/Using-NiFi-for-CDE-Jobs-Pipeline/ta-p/310122
+* https://community.cloudera.com/t5/Support-Questions/NiFi-Load-balancing-internal-or-external/td-p/310131
 
 # Software Artefacts
 
