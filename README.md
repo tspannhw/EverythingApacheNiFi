@@ -38,6 +38,10 @@
 * https://nifi.apache.org/docs/nifi-docs/html/toolkit-guide.html
 * https://nifi.apache.org/docs/nifi-docs/rest-api/index.html
 
+# Demos
+
+* https://www.cloudera.com/content/dam/www/marketing/resources/demos/demo-real-time-data-streaming-using-apache-kafka.landing.html
+
 # Blogs
 
 * http://lonnifi.blogspot.com/
