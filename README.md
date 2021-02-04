@@ -158,6 +158,16 @@
 # Cloud
 
 * https://community.cloudera.com/t5/Community-Articles/Spark-Structured-Streaming-example-with-CDE/ta-p/302050
+* https://community.cloudera.com/t5/Community-Articles/How-to-configure-NiFi-S2S-from-local-machine-to-CDP-Public/ta-p/301235
+* https://community.cloudera.com/t5/Support-Questions/CDP-Public-Cloud-Data-Replication/m-p/309362
+* https://community.cloudera.com/t5/Community-Articles/How-to-connect-Nifi-to-Kafka-in-Data-Hub-on-CDP/ta-p/294441
+* https://community.cloudera.com/t5/Support-Questions/Can-GetHDFS-processor-catch-changes/td-p/201212
+* https://community.cloudera.com/t5/Community-Articles/Simple-Change-Data-Capture-CDC-with-SQL-Selects-via-Apache/ta-p/308376
+* https://community.cloudera.com/t5/Community-Articles/How-to-use-Sqoop-to-Hydrate-Cloudera-Data-Warehouse/ta-p/303037
+* https://community.cloudera.com/t5/Community-Articles/Harnessing-the-Data-Lifecycle-for-Customer-Experience/ta-p/294910
+* https://community.cloudera.com/t5/Community-Articles/How-to-use-NiFi-to-write-API-data-to-CDP-CDW/ta-p/306770
+* https://community.cloudera.com/t5/Community-Articles/Harnessing-the-hybrid-Cloud-use-CDP-Cloud-to-evaluate-COVID/ta-p/305220
+* https://community.cloudera.com/t5/Community-Articles/How-to-write-data-from-NiFi-to-Kudu-in-CDP-Public-Cloud/ta-p/300402
 
 # ETL / ELT / CDC / Load / Ingest
 
