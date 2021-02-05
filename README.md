@@ -168,6 +168,7 @@
 * https://community.cloudera.com/t5/Community-Articles/How-to-use-NiFi-to-write-API-data-to-CDP-CDW/ta-p/306770
 * https://community.cloudera.com/t5/Community-Articles/Harnessing-the-hybrid-Cloud-use-CDP-Cloud-to-evaluate-COVID/ta-p/305220
 * https://community.cloudera.com/t5/Community-Articles/How-to-write-data-from-NiFi-to-Kudu-in-CDP-Public-Cloud/ta-p/300402
+* https://cloudacademy.com/blog/moving-data-to-s3-with-apache-nifi/
 
 # ETL / ELT / CDC / Load / Ingest
 
