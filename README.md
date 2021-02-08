@@ -24,6 +24,12 @@
 * http://nifi.apache.org/download.html
 * https://nifi.apache.org/docs/nifi-docs/html/walkthroughs.html
 
+# Load Balancing
+
+* https://medium.com/@nlabadie/apache-nifi-syslog-load-balancing-c43d87480deb
+* https://t.co/4ANiUPh706?amp=1
+* https://community.cloudera.com/t5/Community-Articles/NiFi-Cluster-and-Load-Balancer/ta-p/248227
+
 # Documentation
 
 * https://nifi.apache.org/docs.html
