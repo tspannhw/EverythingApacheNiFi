@@ -29,6 +29,19 @@
 * https://medium.com/@nlabadie/apache-nifi-syslog-load-balancing-c43d87480deb
 * https://t.co/4ANiUPh706?amp=1
 * https://community.cloudera.com/t5/Community-Articles/NiFi-Cluster-and-Load-Balancer/ta-p/248227
+* https://community.cloudera.com/t5/Support-Questions/NIFI-S2S-communication-issue-between-two-secured-NIFI/td-p/193227
+
+# Syslog
+
+* https://medium.com/@nlabadie/apache-nifi-netflow-to-syslog-117d46867ae1
+* https://medium.com/@nlabadie/apache-nifi-sftp-csv-to-syslog-json-d9da6938defa
+* https://medium.com/@nlabadie/apache-nifi-pulling-from-mysql-and-sending-to-syslog-181dd4ae969c
+
+# Grok
+
+* http://grokconstructor.appspot.com/do/match#result
+* https://nifi.apache.org/docs/nifi-docs/components/org.apache.nifi/nifi-record-serialization-services-nar/1.5.0/org.apache.nifi.grok.GrokReader/additionalDetails.html
+* https://stackoverflow.com/questions/59291548/how-to-use-nifi-extractgrok-properly
 
 # Documentation
 
