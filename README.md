@@ -159,6 +159,7 @@
 * Use -Record https://nifi.apache.org/docs/nifi-docs/components/org.apache.nifi/nifi-standard-nar/1.12.1/org.apache.nifi.processors.standard.QueryDatabaseTableRecord/index.html
 * Merge Attributes https://community.cloudera.com/t5/Support-Questions/Nifi-Processors-status-merge-attributes-into-single-flowfile/td-p/308470
 * https://community.cloudera.com/t5/Support-Questions/NIFI-quot-No-available-buckets-quot-for-saving-flow-version/td-p/308171
+* https://medium.com/analytics-vidhya/managing-your-data-flows-with-apache-nifi-ef559be2fcf4
 
 
 # Understanding NiFi Internals / Architecture
