@@ -97,6 +97,11 @@
 * https://community.cloudera.com/t5/Support-Questions/How-to-add-custom-attributes-to-AttributesToJSON/td-p/308326
 * https://community.cloudera.com/t5/Community-Articles/Using-NiFi-for-CDE-Jobs-Pipeline/ta-p/310122
 * https://community.cloudera.com/t5/Support-Questions/NiFi-Load-balancing-internal-or-external/td-p/310131
+* https://community.cloudera.com/t5/Support-Questions/Automatic-deployment-of-NiFi-Flow/m-p/311319#M224586
+* https://community.cloudera.com/t5/Community-Articles/Change-NiFi-Flow-Using-Rest-API-Part-1/ta-p/244631
+* https://community.cloudera.com/t5/Community-Articles/Update-NiFi-Connection-Destination-via-REST-API/ta-p/244211
+
+
 
 # Software Artefacts
 
