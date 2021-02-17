@@ -89,6 +89,8 @@
 * https://community.cloudera.com/t5/Community-Articles/How-to-use-NiFi-to-write-API-data-to-CDP-CDW/ta-p/306770
 * https://www.youtube.com/channel/UCBHGHVGIihzmuOM86D8IfHQ/featured
 * http://lonnifi.blogspot.com/2019/11/back-pressure-prediction-deep-dive.html
+* https://www.datacrafts.fr/NiFi-Democratizing-Record-Processors/
+* https://www.datacrafts.fr/Error-Handling/
 
 # Community Q&A
 
