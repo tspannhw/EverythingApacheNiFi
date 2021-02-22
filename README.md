@@ -104,6 +104,7 @@
 * https://community.cloudera.com/t5/Support-Questions/Automatic-deployment-of-NiFi-Flow/m-p/311319#M224586
 * https://community.cloudera.com/t5/Community-Articles/Change-NiFi-Flow-Using-Rest-API-Part-1/ta-p/244631
 * https://community.cloudera.com/t5/Community-Articles/Update-NiFi-Connection-Destination-via-REST-API/ta-p/244211
+* https://community.cloudera.com/t5/Community-Articles/Simple-NiFi-template-for-flow-management-datahub/ta-p/311733
 
 
 
