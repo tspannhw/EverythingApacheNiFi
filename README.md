@@ -500,6 +500,14 @@
 * https://docs.cloudera.com/cdf-datahub/7.2.2/nifi-aws-ingest/topics/cdf-datahub-fm-s3-ingest-overview.html
 * https://docs.cloudera.com/cdf-datahub/7.2.6/planning-your-flow-management-deployment/topics/cdf-datahub-fm-cluster-layout.html
 
+# Provenance Checking
+
+Quick Tips:   check nifi security policy on provenance, check configuration for repo-type, check for available disk space, unsynced time, restart all servers.
+Configuration: nifi.provenance.repository.max.storage.time
+
+* https://javasupportzone.blogspot.com/2019/07/possible-reasons-for-processors-data.html
+* https://community.cloudera.com/t5/Support-Questions/NiFi-Provenance-Not-Available-in-UI/td-p/179999#:~:text=Re%3A%20NiFi%20Provenance%20Not%20Available%20in%20UI&text=Try%20stopping%20Nifi%20and%20purging,read%2Fwrite%20in%20set%20directory.
+* https://stackoverflow.com/questions/41487509/data-provenance-disabled-nifi
 
 # Misc
 
