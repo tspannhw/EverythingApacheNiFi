@@ -405,6 +405,7 @@
 
 # Custom Processors
 
+* https://github.com/1904labs/nifi-standardize-date-bundle
 * https://github.com/bbende/nifi-dependency-example
 * https://github.com/tspannhw/ExecuteClouderaML
 * https://github.com/minyk/nifi-headlessbrowser-processor
