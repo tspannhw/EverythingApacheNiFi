@@ -321,7 +321,10 @@
 * Connect to Atlas https://dev.to/tspannhw/connecting-apache-nifi-to-apache-atlas-for-data-governance-at-scale-in-streaming-f5n
 * sFTP https://community.cloudera.com/t5/Community-Articles/How-to-Retrieve-files-from-a-SFTP-server-using-NiFi-GetSFTP/ta-p/245430?search-action-id=37601510770&search-result-uid=245430
 
+# Integration Testing
 
+* https://www.datainmotion.dev/2019/04/integration-testing-for-apache-nifi.html
+* 
 # IoT, Devices, MQTT, Sensors
 
 * https://dev.to/tspannhw/predicting-sensor-readings-with-time-series-machine-learning-3ngc
