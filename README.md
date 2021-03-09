@@ -94,6 +94,7 @@
 * https://www.datacrafts.fr/Error-Handling/
 * https://github.com/hau-mal/articles/blob/master/nifi-ingest-weather-data-en.md
 * https://medium.com/@ben2460/using-nifi-to-react-to-dns-changes-f1d3a348a595
+* https://docs.cloudera.com/cdf-datahub/7.2.7/nifi-snowflake/topics/cfm-snowflake-egress.html
 
 # Community Q&A
 
