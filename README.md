@@ -505,6 +505,7 @@
 * https://docs.cloudera.com/cfm/2.0.4/site-to-site/topics/cdf-datahub-site-to-site.html
 * https://docs.cloudera.com/cdf-datahub/7.2.2/nifi-aws-ingest/topics/cdf-datahub-fm-s3-ingest-overview.html
 * https://docs.cloudera.com/cdf-datahub/7.2.6/planning-your-flow-management-deployment/topics/cdf-datahub-fm-cluster-layout.html
+* https://medium.datadriveninvestor.com/how-to-build-a-simple-data-flow-with-apache-nifi-1ef3b25fe2c4
 
 # Provenance Checking
 
