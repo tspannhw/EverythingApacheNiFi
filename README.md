@@ -25,6 +25,10 @@
 * http://nifi.apache.org/download.html
 * https://nifi.apache.org/docs/nifi-docs/html/walkthroughs.html
 
+# Support
+
+* https://docs.cloudera.com/HDPDocuments/HDF3/HDF-3.5.2/release-notes/content/supported-nifi-processors.html
+* 
 # Load Balancing
 
 * https://medium.com/@nlabadie/apache-nifi-syslog-load-balancing-c43d87480deb
