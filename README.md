@@ -28,7 +28,12 @@
 # Support
 
 * https://docs.cloudera.com/HDPDocuments/HDF3/HDF-3.5.2/release-notes/content/supported-nifi-processors.html
-* 
+
+# DevOps / Tools / Scripts
+
+* https://github.com/asdaraujo/data-in-motion
+
+
 # Load Balancing
 
 * https://medium.com/@nlabadie/apache-nifi-syslog-load-balancing-c43d87480deb
