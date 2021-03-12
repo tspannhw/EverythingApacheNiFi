@@ -32,8 +32,9 @@
 # DevOps / Tools / Scripts
 
 * https://github.com/asdaraujo/data-in-motion
-
-
+* https://github.com/asdaraujo/flink-kafka-replicator
+* https://github.com/asdaraujo/kafka-client-examples
+* 
 # Load Balancing
 
 * https://medium.com/@nlabadie/apache-nifi-syslog-load-balancing-c43d87480deb
