@@ -34,7 +34,8 @@
 * https://github.com/asdaraujo/data-in-motion
 * https://github.com/asdaraujo/flink-kafka-replicator
 * https://github.com/asdaraujo/kafka-client-examples
-* 
+
+
 # Load Balancing
 
 * https://medium.com/@nlabadie/apache-nifi-syslog-load-balancing-c43d87480deb
@@ -68,9 +69,12 @@
 * https://nifi.apache.org/docs/nifi-docs/html/toolkit-guide.html
 * https://nifi.apache.org/docs/nifi-docs/rest-api/index.html
 
-# Demos
+# Demos / Examples
 
 * https://www.cloudera.com/content/dam/www/marketing/resources/demos/demo-real-time-data-streaming-using-apache-kafka.landing.html
+* https://developer.ibm.com/solutions/security/articles/distributed-real-time-threat-detection-engine/
+* https://michalklempa.com/2016/10/using-nifi-to-ingest-snmp-into-avro/
+
 
 # Blogs
 
@@ -91,7 +95,7 @@
 * https://mvnrepository.com/artifact/org.apache.nifi
 * https://github.com/apache/nifi
 * https://apachenifi.slack.com/join/shared_invite
-* https://hub.docker.com/r/apache/nifi/
+
 * http://flink.apache.org/
 * https://blog.cloudera.com/benchmarking-nifi-performance-and-scalability/
 * https://www.youtube.com/watch?v=pZq0EbfDBy4
@@ -105,6 +109,13 @@
 * https://github.com/hau-mal/articles/blob/master/nifi-ingest-weather-data-en.md
 * https://medium.com/@ben2460/using-nifi-to-react-to-dns-changes-f1d3a348a595
 * https://docs.cloudera.com/cdf-datahub/7.2.7/nifi-snowflake/topics/cfm-snowflake-egress.html
+
+# Containers / Docker / K8
+
+* https://hub.docker.com/r/apache/nifi-registry
+* https://hub.docker.com/r/apache/nifi/
+* https://hub.docker.com/r/apache/nifi-toolkit
+* https://hub.docker.com/r/apache/nifi-stateless
 
 # Examples
 
