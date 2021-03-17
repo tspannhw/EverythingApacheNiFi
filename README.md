@@ -75,6 +75,8 @@
 * https://developer.ibm.com/solutions/security/articles/distributed-real-time-threat-detection-engine/
 * https://michalklempa.com/2016/10/using-nifi-to-ingest-snmp-into-avro/
 * https://github.com/geoHeil/streaming-reference/tree/master
+* https://blog.min.io/minio-events-with-apache-nifi/
+* https://gist.github.com/neallee2012/3eb625094a46f8e3f0cc9028e04a5093
 
 
 # Blogs
