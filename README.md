@@ -205,6 +205,7 @@
 * https://community.cloudera.com/t5/Support-Questions/NIFI-quot-No-available-buckets-quot-for-saving-flow-version/td-p/308171
 * https://medium.com/analytics-vidhya/managing-your-data-flows-with-apache-nifi-ef559be2fcf4
 * https://springml.com/blog/apache-nifi-integration-on-google-cloud/
+* https://ryan-templeton.medium.com/snowflake-resource-monitor-reports-delivered-to-slack-using-apache-nifi-8dfd4fc4d579
 
 
 # Understanding NiFi Internals / Architecture
