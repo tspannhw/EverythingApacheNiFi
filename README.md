@@ -98,7 +98,6 @@
 * https://mvnrepository.com/artifact/org.apache.nifi
 * https://github.com/apache/nifi
 * https://apachenifi.slack.com/join/shared_invite
-
 * http://flink.apache.org/
 * https://blog.cloudera.com/benchmarking-nifi-performance-and-scalability/
 * https://www.youtube.com/watch?v=pZq0EbfDBy4
@@ -123,7 +122,8 @@
 # Examples
 
 * https://lilneutron.medium.com/realtime-stock-trade-analysis-with-apache-nifi-kafka-and-flink-and-python-92b1c1bb9a54
-* 
+
+
 # Community Q&A
 
 * https://community.cloudera.com/t5/forums/searchpage/tab/message?advanced=false&allow_punctuation=false&q=nifi
@@ -204,6 +204,7 @@
 * Merge Attributes https://community.cloudera.com/t5/Support-Questions/Nifi-Processors-status-merge-attributes-into-single-flowfile/td-p/308470
 * https://community.cloudera.com/t5/Support-Questions/NIFI-quot-No-available-buckets-quot-for-saving-flow-version/td-p/308171
 * https://medium.com/analytics-vidhya/managing-your-data-flows-with-apache-nifi-ef559be2fcf4
+* https://springml.com/blog/apache-nifi-integration-on-google-cloud/
 
 
 # Understanding NiFi Internals / Architecture
