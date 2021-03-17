@@ -74,6 +74,7 @@
 * https://www.cloudera.com/content/dam/www/marketing/resources/demos/demo-real-time-data-streaming-using-apache-kafka.landing.html
 * https://developer.ibm.com/solutions/security/articles/distributed-real-time-threat-detection-engine/
 * https://michalklempa.com/2016/10/using-nifi-to-ingest-snmp-into-avro/
+* https://github.com/geoHeil/streaming-reference/tree/master
 
 
 # Blogs
