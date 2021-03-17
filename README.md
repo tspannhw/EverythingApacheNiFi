@@ -106,6 +106,10 @@
 * https://medium.com/@ben2460/using-nifi-to-react-to-dns-changes-f1d3a348a595
 * https://docs.cloudera.com/cdf-datahub/7.2.7/nifi-snowflake/topics/cfm-snowflake-egress.html
 
+# Examples
+
+* https://lilneutron.medium.com/realtime-stock-trade-analysis-with-apache-nifi-kafka-and-flink-and-python-92b1c1bb9a54
+* 
 # Community Q&A
 
 * https://community.cloudera.com/t5/forums/searchpage/tab/message?advanced=false&allow_punctuation=false&q=nifi
