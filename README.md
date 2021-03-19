@@ -238,6 +238,7 @@
 * https://community.cloudera.com/t5/Community-Articles/How-to-write-data-from-NiFi-to-Kudu-in-CDP-Public-Cloud/ta-p/300402
 * https://cloudacademy.com/blog/moving-data-to-s3-with-apache-nifi/
 * https://community.cloudera.com/t5/Community-Articles/Simple-NiFi-template-for-flow-management-datahub/ta-p/311733
+* https://www.cloudera.com/tutorials/cdp-importing-rdbms-data-into-hive.html
 
 # ETL / ELT / CDC / Load / Ingest
 
