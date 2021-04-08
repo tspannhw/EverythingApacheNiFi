@@ -115,6 +115,7 @@
 * https://medium.com/@ben2460/using-nifi-to-react-to-dns-changes-f1d3a348a595
 * https://docs.cloudera.com/cdf-datahub/7.2.7/nifi-snowflake/topics/cfm-snowflake-egress.html
 * https://medium.com/@kar9475/parameter-context-retry-flowfile-back-pressure-prediction-in-nifi-1-10-release-6c4aa7def082
+* https://bryanbende.com/development/2021/02/17/apache-nifi-saml-keycloak
 
 # Containers / Docker / K8
 
