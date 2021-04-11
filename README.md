@@ -80,6 +80,7 @@
 * https://github.com/geoHeil/streaming-reference/tree/master
 * https://blog.min.io/minio-events-with-apache-nifi/
 * https://gist.github.com/neallee2012/3eb625094a46f8e3f0cc9028e04a5093
+* https://medium.com/digital-transformation-and-platform-engineering/streaming-data-lake-and-analytics-with-apache-nifi-c651700b56db
 
 
 # Blogs
