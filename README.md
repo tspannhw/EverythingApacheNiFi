@@ -120,6 +120,7 @@
 * https://docs.cloudera.com/cdf-datahub/7.2.7/nifi-snowflake/topics/cfm-snowflake-egress.html
 * https://medium.com/@kar9475/parameter-context-retry-flowfile-back-pressure-prediction-in-nifi-1-10-release-6c4aa7def082
 * https://bryanbende.com/development/2021/02/17/apache-nifi-saml-keycloak
+* https://community.cloudera.com/t5/Community-Articles/How-to-import-a-flow-to-NiFi-registry-in-CDP-Cloud/ta-p/308335
 
 # Containers / Docker / K8
 
