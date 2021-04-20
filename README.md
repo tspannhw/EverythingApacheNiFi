@@ -129,6 +129,9 @@
 
 * https://lilneutron.medium.com/realtime-stock-trade-analysis-with-apache-nifi-kafka-and-flink-and-python-92b1c1bb9a54
 
+# NiFi Frameworks
+
+* https://github.com/nagarajjayakumar/NFaaS
 
 # Community Q&A
 
