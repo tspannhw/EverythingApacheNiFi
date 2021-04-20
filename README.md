@@ -82,6 +82,9 @@
 * https://gist.github.com/neallee2012/3eb625094a46f8e3f0cc9028e04a5093
 * https://medium.com/digital-transformation-and-platform-engineering/streaming-data-lake-and-analytics-with-apache-nifi-c651700b56db
 
+# Reprise Demos
+
+* https://www.getreprise.com/blog/using-apache-nifi-to-capture-covid-19-data/
 
 # Blogs
 
