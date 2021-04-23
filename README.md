@@ -31,6 +31,9 @@
 * https://docs.cloudera.com/HDPDocuments/HDF3/HDF-3.5.2/release-notes/content/supported-nifi-processors.html
 * https://docs.cloudera.com/management-console/cloud/connection-to-private-subnets/topics/mc-endpoint_access_gateway.html
 
+# Cloudera Data Flow - Kubernetes Deployment
+
+* https://docs.cloudera.com/dataflow/cloud/bp-flow-definition/topics/cdf-flow-isolation.html
 
 # DevOps / Tools / Scripts
 
