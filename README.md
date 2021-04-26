@@ -140,6 +140,28 @@
 
 * https://github.com/nagarajjayakumar/NFaaS
 
+# Sequencing and Ordering
+
+Expression Language:   
+
+* random
+Description: Returns a random whole number ( 0 to 2^63 - 1) using an insecure random number generator.
+
+* nextInt
+Description: Returns a one-up value (starting at 0) and increasing over the lifetime of the running instance of NiFi
+
+* ${now():toNumber()}
+
+
+# Other Options
+
+* https://gist.github.com/ijokarumawak/7e6158460cfcb0b5911acefbb455edf0
+* https://medium.com/google-cloud/gcp-pub-sub-ordering-and-apache-nifi-5e1ac9a14752
+* http://funnifi.blogspot.com/2018/08/database-sequence-lookup-with.html
+* https://community.cloudera.com/t5/Support-Questions/Generate-Sequence-number-in-Apache-NIFI/td-p/220571
+* http://www.randomnumberapi.com/api/v1.0/random
+
+
 # Community Q&A
 
 * https://community.cloudera.com/t5/forums/searchpage/tab/message?advanced=false&allow_punctuation=false&q=nifi
