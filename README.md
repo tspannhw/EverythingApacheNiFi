@@ -125,6 +125,9 @@
 * https://medium.com/@kar9475/parameter-context-retry-flowfile-back-pressure-prediction-in-nifi-1-10-release-6c4aa7def082
 * https://bryanbende.com/development/2021/02/17/apache-nifi-saml-keycloak
 * https://community.cloudera.com/t5/Community-Articles/How-to-import-a-flow-to-NiFi-registry-in-CDP-Cloud/ta-p/308335
+* http://ijokarumawak.github.io/nifi/2017/02/02/nifi-notify-batch/
+* https://pierrevillard.com/2017/02/07/using-counters-in-apache-nifi/
+* https://pierrevillard.com/2018/08/29/monitoring-driven-development-with-nifi-1-7/
 
 # Containers / Docker / K8
 
