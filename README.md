@@ -177,7 +177,9 @@ Description: Returns a one-up value (starting at 0) and increasing over the life
 * https://community.cloudera.com/t5/Community-Articles/Simple-NiFi-template-for-flow-management-datahub/ta-p/311733
 * https://community.cloudera.com/t5/Community-Articles/Connecting-Nifi-to-Impala-using-Simba-JDBC-driver/tac-p/312714#M6179
 * https://community.cloudera.com/t5/Community-Articles/Understanding-how-NiFi-s-Content-Repository-Archiving-works/ta-p/249418
-* 
+* https://stackoverflow.com/questions/66259273/nifi-kerberos-ticket-login-not-supported-by-this-nifi
+
+
 # SAAS Interfaces
 
 * https://github.com/jdye64/nifi-addons/tree/master/Processors/nifi-salesforce
