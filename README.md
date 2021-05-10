@@ -185,6 +185,7 @@ get recordpath for things like nested structured in json or xml
 * https://community.cloudera.com/t5/Community-Articles/Connecting-Nifi-to-Impala-using-Simba-JDBC-driver/tac-p/312714#M6179
 * https://community.cloudera.com/t5/Community-Articles/Understanding-how-NiFi-s-Content-Repository-Archiving-works/ta-p/249418
 * https://stackoverflow.com/questions/66259273/nifi-kerberos-ticket-login-not-supported-by-this-nifi
+* https://community.cloudera.com/t5/Support-Questions/PrometheusReportingTask-with-same-port-and-multiple-nifi/m-p/316092#M226712
 
 
 # SAAS Interfaces
