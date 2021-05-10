@@ -340,7 +340,7 @@ Description: Returns a one-up value (starting at 0) and increasing over the life
 * SQL Server and Kerberos https://www.exabeam.com/information-security/apache-nifi-sql-server-and-kerberos-authentication/
 * Files and Netflow https://www.exabeam.com/siem/apache-nifi-ingest-syslog-data/
 * MySQL to SYSLOG https://www.exabeam.com/siem/apache-nifi-send-from-mysql-to-syslog/
-* 
+* https://yauaa.basjes.nl/UDF-ApacheNifi.html
 
 # Sources & Sinks
 
