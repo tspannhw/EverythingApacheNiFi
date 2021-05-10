@@ -156,6 +156,10 @@ Description: Returns a one-up value (starting at 0) and increasing over the life
 
 * ${now():toNumber()}
 
+* SELECT RPATH(message, '/c_ip') as xxx from flowfile
+
+get recordpath for things like nested structured in json or xml
+
 
 # Other Options
 
