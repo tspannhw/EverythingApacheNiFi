@@ -16,6 +16,7 @@
 
 # Must Watch Video
 
+* Apache NiFi Part 5: Primary Node / Complex Expression Language: https://www.youtube.com/watch?v=JbUjYr6Kd3I
 * Apache NiFi Part 4: Scheduling: https://www.youtube.com/watch?v=pZq0EbfDBy4
 * Apache NiFi Part 3: Load Balancing: https://www.youtube.com/watch?v=by9P0Zi8Dk8
 * Apache NiFi Anti-Patterns Part 2: Flow Layout by Mark:  https://www.youtube.com/watch?v=v1CoQk730qs&feature=youtu.be
