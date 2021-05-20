@@ -501,6 +501,7 @@ get recordpath for things like nested structured in json or xml
 * https://community.hortonworks.com/content/kbentry/116803/building-a-custom-processor-in-apache-nifi-12-for.html
 * https://github.com/alopresto/nifi-byop-dws
 * https://github.com/DevWorxCo/nifi-starter
+* https://github.com/influxdata/nifi-influxdb-bundle
 
 # Custom Processors
 
