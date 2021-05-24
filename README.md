@@ -644,6 +644,15 @@ get recordpath for things like nested structured in json or xml
 * https://medium.com/@danielyahn/nifi-ms-sql-integrated-security-9efc184872db
 * https://rapidminernotes.blogspot.com/2018/01/populating-sql-server-from-apache-nifi.html
 
+# Oracle
+
+* https://www.cdata.com/kb/tech/oracledb-jdbc-apache-nifi.rst
+* https://www.progress.com/blogs/tutorial-access-data-via-jdbc-with-apache-nifi
+* https://www.youtube.com/watch?v=XsL63ZQYmLE
+* https://www.youtube.com/watch?v=qsIJFcQYp2E
+*  John Kuchmek at ApacheCon 2020 Incrementally Streaming from Oracle -> https://www.youtube.com/watch?v=nPewLy7Zjkg&list=PLlmpIaH7URGXYTdiHhlYbSkAO_B_RDDn0&index=28
+* 
+
 
 # CDC / Database
 
@@ -659,7 +668,12 @@ get recordpath for things like nested structured in json or xml
 * https://www.qlik.com/us/data-management/nifi
 * https://www.marklogic.com/blog/apache-nifi-quickstart/
 * https://www.vertica.com/kb/NifiCG/Content/Partner/NifiCG.htm
-
+* https://community.cloudera.com/t5/Community-Articles/Incrementally-Streaming-RDBMS-Data-to-Your-Hadoop-DataLake/ta-p/247927
+* https://www.batchiq.com/nifi-flow-examples.html
+* https://blog.pythian.com/database-migration-using-apache-nifi/
+* https://www.datainmotion.dev/2019/04/oracle-golden-gate-to-apache-kafka-to.html
+* https://github.com/anair-it/nifi-docker
+* https://medium.com/trendyol-tech/using-apache-nifi-for-migrating-data-fe1c224c7b16
 
 # Provenance Checking
 
