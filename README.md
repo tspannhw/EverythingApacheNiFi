@@ -620,6 +620,47 @@ get recordpath for things like nested structured in json or xml
 * https://docs.cloudera.com/cdf-datahub/7.2.6/planning-your-flow-management-deployment/topics/cdf-datahub-fm-cluster-layout.html
 * https://medium.datadriveninvestor.com/how-to-build-a-simple-data-flow-with-apache-nifi-1ef3b25fe2c4
 
+# MemSQL
+
+* https://www.youtube.com/watch?v=Jnz-a_wCYp4
+* https://medium.com/@moha.ajori/using-apache-nifi-to-load-tweets-from-twitter-api-to-memsql-19e19a3be20e
+
+# GreenPlum DB
+
+* https://www.cdata.com/kb/tech/greenplum-jdbc-apache-nifi.rst
+* https://github.com/DanielePalaia/gpss-nifi
+
+# Teradata
+
+* https://www.cdata.com/kb/tech/teradata-jdbc-apache-nifi.rst
+* https://community.cloudera.com/t5/Community-Articles/Using-Teradata-JDBC-connector-in-NiFi/ta-p/246783
+
+# Microsoft SQL Server (MS SQL)
+
+* https://community.cloudera.com/t5/Support-Questions/Nifi-Connection-to-MSSQL-server-DB/td-p/95642
+* https://www.cdata.com/kb/tech/sql-jdbc-apache-nifi.rst
+* https://nathanlabadie.com/apache-nifi-ms-sql-and-kerberos-authentication/
+* https://gist.github.com/ijokarumawak/42c257afb5e80361e502564085d7999e
+* https://medium.com/@danielyahn/nifi-ms-sql-integrated-security-9efc184872db
+* https://rapidminernotes.blogspot.com/2018/01/populating-sql-server-from-apache-nifi.html
+
+
+# CDC / Database
+
+* https://community.cloudera.com/t5/Community-Articles/Incremental-Fetch-in-NiFi-with-QueryDatabaseTable/ta-p/247073
+* https://community.cloudera.com/t5/Community-Articles/Change-Data-Capture-CDC-with-Apache-NiFi-Part-1-of-3/ta-p/246623
+* https://github.com/edufer/nifi-cdc-sqlserver
+* https://dev.to/tspannhw/simple-change-data-capture-cdc-with-sql-selects-via-apache-nifi-flank-19m4
+* https://nifi.apache.org/docs/nifi-docs/components/org.apache.nifi/nifi-cdc-mysql-nar/1.13.2/org.apache.nifi.cdc.mysql.processors.CaptureChangeMySQL/
+* https://www.linkedin.com/pulse/achieving-incremental-fetch-change-data-capture-via-apache-rajpal/
+* https://community.cloudera.com/t5/Community-Articles/PutHive3Streaming-to-do-Basic-CDC-with-NiFi/ta-p/249187
+* https://community.cloudera.com/t5/Community-Articles/Simple-Change-Data-Capture-CDC-with-SQL-Selects-via-Apache/ta-p/308376
+* https://community.cloudera.com/t5/Community-Articles/Basic-CDC-on-SAP-HANA-using-Apache-NIFI/ta-p/249323
+* https://www.qlik.com/us/data-management/nifi
+* https://www.marklogic.com/blog/apache-nifi-quickstart/
+* https://www.vertica.com/kb/NifiCG/Content/Partner/NifiCG.htm
+
+
 # Provenance Checking
 
 Quick Tips:   check nifi security policy on provenance, check configuration for repo-type, check for available disk space, unsynced time, restart all servers.
