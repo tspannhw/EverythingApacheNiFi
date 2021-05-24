@@ -130,6 +130,9 @@
 * https://pierrevillard.com/2017/02/07/using-counters-in-apache-nifi/
 * https://pierrevillard.com/2018/08/29/monitoring-driven-development-with-nifi-1-7/
 * https://www.baeldung.com/iot-data-pipeline-mqtt-nifi
+* https://www.clearpeaks.com/streaming-data-to-hive-using-nifi-and-kafka-in-a-kerberized-cdh-cluster/?utm_source=social&utm_medium=linkedin&utm_campaign=cdh-nifi-kafka-kerberos-blog-post
+* https://github.com/medined/nifi-prototype
+* 
 
 # Containers / Docker / K8
 
