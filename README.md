@@ -192,6 +192,14 @@ get recordpath for things like nested structured in json or xml
 * https://stackoverflow.com/questions/66259273/nifi-kerberos-ticket-login-not-supported-by-this-nifi
 * https://community.cloudera.com/t5/Support-Questions/PrometheusReportingTask-with-same-port-and-multiple-nifi/m-p/316092#M226712
 * https://github.com/chadgeary/nifi
+* https://nathanlabadie.com/recombining-multiline-logs-with/
+* https://nathanlabadie.com/video-tutorial-nifi-netflow-and-csv-ingest/
+* https://nathanlabadie.com/nifi-pulling-data-from-splunk/
+* https://nathanlabadie.com/running-nifi-in-a-docker-container/
+* https://nathanlabadie.com/adding-a-timestamp-to-elasticsearch-from-apache-nifi/
+* https://nathanlabadie.com/video-tutorial/
+* https://nathanlabadie.com/the-basics-how/
+* https://nathanlabadie.com/streaming-from-elastic-to-syslog-via-apache-nifi/
 
 # SAAS Interfaces
 
