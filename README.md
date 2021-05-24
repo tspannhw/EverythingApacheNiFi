@@ -516,6 +516,7 @@ get recordpath for things like nested structured in json or xml
 
 # Custom Processors
 
+* https://github.com/All-of-Us-Research-Program/nifi-fhir-processor
 * https://github.com/1904labs/nifi-standardize-date-bundle
 * https://github.com/bbende/nifi-dependency-example
 * https://github.com/tspannhw/ExecuteClouderaML
