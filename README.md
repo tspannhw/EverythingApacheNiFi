@@ -133,6 +133,7 @@
 * https://www.clearpeaks.com/streaming-data-to-hive-using-nifi-and-kafka-in-a-kerberized-cdh-cluster/?utm_source=social&utm_medium=linkedin&utm_campaign=cdh-nifi-kafka-kerberos-blog-post
 * https://github.com/medined/nifi-prototype
 * https://boristyukin.com/building-near-real-time-big-data-lake-part-2/
+* https://gpdb.docs.pivotal.io/connectors/apache-nifi/1-0/overview.html
 
 # FHIR / HL7 / Health / Medical
 
