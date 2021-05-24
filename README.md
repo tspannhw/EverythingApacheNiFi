@@ -134,6 +134,10 @@
 * https://github.com/medined/nifi-prototype
 * https://boristyukin.com/building-near-real-time-big-data-lake-part-2/
 
+# FHIR / HL7 / Health / Medical
+
+* https://bastide.org/2020/05/15/apache-nifi-and-ibm-fhir-server-invokehttp-and-ssl/
+
 # Containers / Docker / K8
 
 * https://hub.docker.com/r/apache/nifi-registry
