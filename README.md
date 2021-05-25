@@ -693,7 +693,10 @@ get recordpath for things like nested structured in json or xml
 * https://www.youtube.com/watch?v=XsL63ZQYmLE
 * https://www.youtube.com/watch?v=qsIJFcQYp2E
 *  John Kuchmek at ApacheCon 2020 Incrementally Streaming from Oracle -> https://www.youtube.com/watch?v=nPewLy7Zjkg&list=PLlmpIaH7URGXYTdiHhlYbSkAO_B_RDDn0&index=28
-* 
+
+# S3 Data Indexing
+
+* https://blog.cloudera.com/how-to-index-data-from-s3-via-nifi-using-cdp-data-hubs/
 
 
 # CDC / Database
