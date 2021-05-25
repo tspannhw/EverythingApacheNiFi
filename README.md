@@ -729,6 +729,10 @@ Configuration: nifi.provenance.repository.max.storage.time
 * https://community.cloudera.com/t5/Support-Questions/NiFi-Provenance-Not-Available-in-UI/td-p/179999#:~:text=Re%3A%20NiFi%20Provenance%20Not%20Available%20in%20UI&text=Try%20stopping%20Nifi%20and%20purging,read%2Fwrite%20in%20set%20directory.
 * https://stackoverflow.com/questions/41487509/data-provenance-disabled-nifi
 
+# Videos
+
+* https://www.youtube.com/watch?v=RHFkCtbe3kc
+
 # Misc
 
 * https://www.cloudera.com/content/dam/www/marketing/resources/solution-briefs/data-in-motion-philosophy.pdf.landing.html
