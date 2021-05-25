@@ -205,6 +205,9 @@ get recordpath for things like nested structured in json or xml
 * https://nathanlabadie.com/video-tutorial/
 * https://nathanlabadie.com/the-basics-how/
 * https://nathanlabadie.com/streaming-from-elastic-to-syslog-via-apache-nifi/
+* https://blog.octo.com/en/accelerating-nifi-flows-delivery-part-1/
+
+
 
 # SAAS Interfaces
 
@@ -593,6 +596,8 @@ get recordpath for things like nested structured in json or xml
 * https://dev.to/tspannhw/migrating-apache-flume-flows-to-apache-nifi-kafka-source-to-hdfs-kudu-file-hive-55gj
 * Templates https://github.com/tspannhw/flume-to-nifi
 
+
+
 # FDLC, SDLC, DevOps, Backup, Restore, Migration, CI/CD
 
 * https://www.datainmotion.dev/2019/03/apache-nifi-operations-and-monitoring.html
@@ -602,6 +607,42 @@ get recordpath for things like nested structured in json or xml
 * https://www.datainmotion.dev/2020/08/deleting-schemas-from-cloudera-schema.html
 * https://www.datainmotion.dev/2019/09/backup-and-restore-nifi-registry.html
 * https://www.datainmotion.dev/2019/04/simple-apache-nifi-operations-dashboard.html
+* https://www.youtube.com/watch?v=yKmVBTeZS4c
+* https://medium.com/@abdelkrim.hadjidj/fdlc-towards-flow-development-life-cycle-with-nifi-registries-82e1ee866fab
+* https://pierrevillard.com/2018/04/09/automate-workflow-deployment-in-apache-nifi-with-the-nifi-registry/ 
+* https://community.cloudera.com/t5/Community-Articles/NiFi-SDLC-Automation-in-Python-with-NiPyApi-Part-1/ta-p/247693 
+* https://github.com/Chaffelson/nipyapi 
+* https://docs.cloudera.com/cfm/2.0.4/cfm-getting-started/topics/cfm-gs-overview.html
+* https://leanjavaengineering.wordpress.com/2018/07/26/quick-tip-using-git-with-nifi-registry-in-docker/
+* https://github.com/michalklempa/docker-nifi-registry
+* https://github.com/steven-matison/NiFi-Templates
+* https://github.com/tspannhw/BackupRegistry
+* https://github.com/itarano/nifi-pre-pro-registry
+* https://github.com/erdrix/nigoapi
+* https://blog.cloudera.com/cloudera-flow-management-continuous-delivery-while-minimizing-downtime/
+* https://github.com/alopresto/slides
+* https://bryanbende.com/development/2017/05/10/apache-nifi-1-2-0-component-versioning
+* https://www.infoq.com/presentations/secure-iot-apache-minifi/
+* https://biconsulting.hu/letoltes/2020/2020budapestdata/D1_Daniel_Chaffelson_Cloudera.pdf
+
+
+# NiFi Notes
+
+* https://www.javahotchocolate.com/notes/nifi.html
+* https://martin.atlassian.net/wiki/spaces/lestermartin/pages/740196355/NiFi+Cheat+Sheet
+
+
+# Webinars
+
+* https://www.brighttalk.com/webcast/18452/479025/demo-jam-live-create-data-flows-with-apache-nifi
+* https://www.brighttalk.com/webcast/15417/354772
+* 
+
+# Integrations
+
+* https://www.stardog.com/labs/blog/stardog-data-flow-automation-with-nifi/
+* https://hackernoon.com/data-ingestion-using-apache-nifi-for-building-data-lake-using-twitter-data-1f3d3da6fe1d
+
 
 # CDP Public Cloud, AWS, Azure, GCP
 
