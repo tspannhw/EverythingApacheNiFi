@@ -56,6 +56,8 @@
 * https://medium.com/@nlabadie/apache-nifi-netflow-to-syslog-117d46867ae1
 * https://medium.com/@nlabadie/apache-nifi-sftp-csv-to-syslog-json-d9da6938defa
 * https://medium.com/@nlabadie/apache-nifi-pulling-from-mysql-and-sending-to-syslog-181dd4ae969c
+* https://nathanlabadie.com/apache-nifi-netflow-to-syslog/
+* https://blog.davidvassallo.me/2019/04/09/consuming-netflow-using-nifi/
 
 # Grok
 
@@ -584,6 +586,8 @@ get recordpath for things like nested structured in json or xml
 * https://github.com/compose-ex/nifi-compose-bundle
 * https://github.com/BRGM/Nifi-WKB-to-WKT-processor
 * https://github.com/nagarajjayakumar/nifi-hana-custom-processor
+* https://github.com/dvas0004/nifi-loadbalancer
+* https://github.com/dvas0004/nifi-webscraper
 
 # Migrate Flume Flows to NiFi
 ## JMS, RDBMS, Kafka, Syslog, Twitter, Parquet, Kudu, Hive, HDFS, REST
