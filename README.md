@@ -137,6 +137,7 @@
 * https://boristyukin.com/building-near-real-time-big-data-lake-part-2/
 * https://gpdb.docs.pivotal.io/connectors/apache-nifi/1-0/overview.html
 * https://lonnifi.blogspot.com/2019/11/back-pressure-prediction-deep-dive.html
+* https://community.cloudera.com/t5/Community-Articles/Using-NiFi-for-CDE-Jobs-Pipeline/ta-p/310122
 
 # FHIR / HL7 / Health / Medical
 
