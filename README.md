@@ -704,6 +704,15 @@ get recordpath for things like nested structured in json or xml
 
 * https://blog.cloudera.com/how-to-index-data-from-s3-via-nifi-using-cdp-data-hubs/
 
+# Cloud 
+
+* https://www.batchiq.com/nifi-process-s3-event-notifications.html
+* https://gist.github.com/jvwing
+* https://www.batchiq.com/process-cloudtrail-events-with-nifi.html
+* https://www.batchiq.com/s3-ingest-with-nifi.html
+* https://www.batchiq.com/database-extract-with-nifi.html
+* https://www.batchiq.com/database-ingest-with-nifi.html
+
 
 # CDC / Database
 
