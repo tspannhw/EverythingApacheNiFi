@@ -139,6 +139,7 @@
 * https://lonnifi.blogspot.com/2019/11/back-pressure-prediction-deep-dive.html
 * https://community.cloudera.com/t5/Community-Articles/Using-NiFi-for-CDE-Jobs-Pipeline/ta-p/310122
 * https://www.clearpeaks.com/connecting-nifi-with-activemq/
+* https://medium.com/@Sushil_Kumar/data-quality-with-apache-nifi-9fa5223bbf54
 
 # FHIR / HL7 / Health / Medical
 
