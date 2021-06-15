@@ -185,6 +185,22 @@ get recordpath for things like nested structured in json or xml
 * https://community.cloudera.com/t5/Support-Questions/Generate-Sequence-number-in-Apache-NIFI/td-p/220571
 * http://www.randomnumberapi.com/api/v1.0/random
 
+# Ingest and Process Logs
+
+* https://bryanbende.com/development/2017/10/04/apache-nifi-processing-multiline-logs
+* https://www.tigeranalytics.com/blog/real-time-nifi-alerts-automated-log-capturing-spark/
+* https://nathanlabadie.com/nifi-pulling-data-from-splunk/
+* https://www.youtube.com/watch?v=4yBc7hHvaQU
+* https://www.exabeam.com/siem/apache-nifi-ingest-syslog-data/
+* https://dzone.com/articles/reading-sudo-logs-with-apache-nifi
+* https://www.datainmotion.dev/2019/10/migrating-apache-flume-flows-to-apache_35.html
+* https://blog.davidvassallo.me/2018/09/19/apache-nifi-from-syslog-to-elasticsearch/
+* https://www.keedio.org/real-time-data-ingestion-processing-and-storage-of-syslog-using-apache-nifi-flink-kafka-and-cassandra/
+* https://www.hadoopinrealworld.com/building-a-data-pipeline-with-apache-nifi/
+* https://www.futurespace.es/en/apache-nifi-flujo-de-extraccion-validacion-transformacion-y-carga-de-ficheros-caso-de-uso-real/
+* https://nxlog.co/documentation/nxlog-user-guide/apache-nifi.html
+* http://bigapps.fr/apache-nifi-for-dataflow-and-real-time-streaming-with-apache-kafka/
+* 
 
 # Community Q&A
 
