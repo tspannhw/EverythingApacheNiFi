@@ -332,6 +332,8 @@ get recordpath for things like nested structured in json or xml
 * https://cloudacademy.com/blog/moving-data-to-s3-with-apache-nifi/
 * https://community.cloudera.com/t5/Community-Articles/Simple-NiFi-template-for-flow-management-datahub/ta-p/311733
 * https://www.cloudera.com/tutorials/cdp-importing-rdbms-data-into-hive.html
+* https://community.cloudera.com/t5/Community-Articles/Working-with-S3-Compatible-Data-Stores-via-Apache-NiFi/ta-p/244584
+* https://research.nccgroup.com/2021/01/04/using-aws-and-azure-for-cost-effective-log-ingestion-with-data-processing-pipelines-for-siems/
 
 # ETL / ELT / CDC / Load / Ingest
 
