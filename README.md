@@ -228,6 +228,7 @@ get recordpath for things like nested structured in json or xml
 * https://nathanlabadie.com/the-basics-how/
 * https://nathanlabadie.com/streaming-from-elastic-to-syslog-via-apache-nifi/
 * https://blog.octo.com/en/accelerating-nifi-flows-delivery-part-1/
+* https://www.fullstackanalyst.io/blog/open-source/processing-adobe-analytics-data-feeds-with-apache-nifi-for-adobe-experience-platform/
 
 
 
