@@ -29,6 +29,16 @@
 * http://nifi.apache.org/download.html
 * https://nifi.apache.org/docs/nifi-docs/html/walkthroughs.html
 
+# Don't Run NiFi Batch Jobs... But you can.   Try NiFi Stateless, but you don't want to use Airflow try this
+
+* https://benyaakobi.medium.com/nifi-scheduling-a522a1c9e740
+* http://funnifi.blogspot.com/2018/08/one-and-done-flows-aka-job-processing.html
+* https://getindata.com/blog/nifi-ingestion/fast-and-easy-what-could-possibly-go-wrong-one-year-history-certain-nifi-flow/
+* https://boristyukin.com/how-to-run-sqoop-from-nifi/
+* https://www.hadoopinrealworld.com/building-a-data-pipeline-with-apache-nifi/
+
+
+
 # Support
 
 * https://docs.cloudera.com/HDPDocuments/HDF3/HDF-3.5.2/release-notes/content/supported-nifi-processors.html
