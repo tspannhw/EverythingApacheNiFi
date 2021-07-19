@@ -9,6 +9,7 @@
 
 * Apache NiFi 1.14.0 is now out.   Check it out. https://cwiki.apache.org/confluence/display/NIFI/Release+Notes#ReleaseNotes-Version1.14.0
 * https://www.youtube.com/watch?app=desktop&v=h503MibiENY&feature=youtu.be
+* https://bryanbende.com/development/2021/07/19/apache-nifi-1-14-0-secure-by-default
 * Latest Version - Apache NiFi 1.13.2!  Don't use Apache NiFi 1.13.1
 * Apache NiFi 1.13.2.2 - https://www.datainmotion.dev/2021/04/nifi-on-cloudera-data-platform-upgrade.html
 * Apache NiFi 1.13.0 - https://www.datainmotion.dev/2021/02/new-features-of-apache-nifi-1130.html
