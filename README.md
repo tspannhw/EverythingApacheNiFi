@@ -682,7 +682,7 @@ get recordpath for things like nested structured in json or xml
 
 * https://www.brighttalk.com/webcast/18452/479025/demo-jam-live-create-data-flows-with-apache-nifi
 * https://www.brighttalk.com/webcast/15417/354772
-* 
+* [**German only**] [Apache NiFi Grundlagen - kostenloses Webinar (ordix.de)](https://seminare.ordix.de/seminare/data-warehouse/apache-nifi-grundlagen-kostenloses-webinar.html)
 
 # Integrations
 
@@ -792,6 +792,12 @@ Configuration: nifi.provenance.repository.max.storage.time
 * https://www.cloudera.com/content/dam/www/marketing/resources/solution-briefs/data-in-motion-philosophy.pdf.landing.html
 
 # Other Languages
+
+## German
+
+- [ORDIX AG - NiFI-Blog Collection](https://blog.ordix.de/categories/nifi)
+
+## Spanish
 
 * https://apuntandoanulo.com/category/apache-nifi/
 
