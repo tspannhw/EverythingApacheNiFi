@@ -7,7 +7,7 @@
 
 # Updates
 
-* Apache NiFi 1.14.0 is now out.   Check it out. https://cwiki.apache.org/confluence/display/NIFI/Release+Notes#ReleaseNotes-Version1.14.0
+* Apache NiFi 1.15.3 is now out.   Check it out. https://cwiki.apache.org/confluence/display/NIFI/Release+Notes#ReleaseNotes-Version1.14.0
 * https://www.youtube.com/watch?app=desktop&v=h503MibiENY&feature=youtu.be
 * https://bryanbende.com/development/2021/07/19/apache-nifi-1-14-0-secure-by-default
 * Latest Version - Apache NiFi 1.13.2!  Don't use Apache NiFi 1.13.1
