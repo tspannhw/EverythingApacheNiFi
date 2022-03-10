@@ -7,6 +7,7 @@
 
 # Updates
 
+* https://github.com/tspannhw/FLiPN-NFT
 * Apache NiFi 1.15.3 is now out.   Check it out. https://cwiki.apache.org/confluence/display/NIFI/Release+Notes#ReleaseNotes-Version1.14.0
 * https://www.youtube.com/watch?app=desktop&v=h503MibiENY&feature=youtu.be
 * https://bryanbende.com/development/2021/07/19/apache-nifi-1-14-0-secure-by-default
