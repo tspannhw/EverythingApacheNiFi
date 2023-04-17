@@ -7,11 +7,6 @@
 
 # Updates
 
-* Apache NiFi 1.19.1 is out
-https://cwiki.apache.org/confluence/display/NIFI/Release+Notes#ReleaseNotes-Version1.19.1
-
-## Oldates
-
 * https://github.com/tspannhw/FLiPN-NFT
 * Apache NiFi 1.20.0 is now out.   Check it out. https://cwiki.apache.org/confluence/display/NIFI/Release+Notes
 * https://www.youtube.com/watch?app=desktop&v=h503MibiENY&feature=youtu.be
