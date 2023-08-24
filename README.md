@@ -20,6 +20,36 @@
 * AirQuality with NiFi https://medium.com/cloudera-inc/wildfires-air-quality-time-to-fire-up-the-sensors-and-start-flanking-12ea0ba33f63
 * CDC with NiFi, Kafka, Flink https://dzone.com/articles/streaming-change-data-capture-data-two-ways
 
+# Slides
+
+https://www.slideshare.net/bunkertor/building-modern-data-streaming-apps-with-python
+https://www.slideshare.net/bunkertor/sink-your-teeth-into-streaming-at-any-scale
+https://www.slideshare.net/bunkertor/lets-keep-it-simple-and-streaming
+https://www.slideshare.net/bunkertor/living-the-stream-dream-with-pulsar-and-spring-boot
+https://www.slideshare.net/bunkertor/why-spring-belongs-in-your-data-stream-from-edge-to-multicloud
+https://www.youtube.com/watch?v=pds3gizWEyw&ab_channel=StreamNative
+https://www.slideshare.net/bunkertor/living-the-stream-dream-with-pulsar-and-spring-boot-256064590
+https://www.slideshare.net/bunkertor/the-next-generation-of-streaming
+https://www.slideshare.net/bunkertor/unconference-round-table-notes
+https://www.slideshare.net/bunkertor/conf42-python-ml-enhanced-event-streaming-apps-with-python-microservices
+https://www.slideshare.net/bunkertor/phillyjug-getting-started-with-realtime-cloud-native-streaming-with-java
+https://www.slideshare.net/bunkertor/pythonwebconference-cloud-native-apache-pulsar-development-202-with-python
+https://www.slideshare.net/bunkertor/itpc-building-modern-data-streaming-apps
+https://www.slideshare.net/bunkertor/warsawitdays-apachenifi202
+https://www.slideshare.net/bunkertor/devnexus-apache-pulsar-development-101-with-java
+https://www.meetup.com/futureofdata-sanfrancisco/events/292453316/
+https://www.slideshare.net/bunkertor/rtas-2023-building-a-realtime-iot-application
+https://www.slideshare.net/bunkertor/meet-the-committers-webinar-lab-preparation
+https://www.slideshare.net/bunkertor/gsjug-mastering-data-streaming-pipelines-09may2023
+https://www.youtube.com/watch?v=WvPqE8J3ZOE&pp=ygUOdGltIHNwYW5uIG5pZmk%3D
+https://www.slideshare.net/bunkertor/using-apache-nifi-with-apache-pulsar-for-fast-data-onramp
+https://www.slideshare.net/ssuser73434e/bigdatafest-building-modern-data-streaming-apps-258024601
+https://www.youtube.com/watch?v=UZRvUyjNWmg&t=49s&pp=ygUOdGltIHNwYW5uIG5pZmk%3D
+https://www.slideshare.net/bunkertor/budapest-dataml-building-modern-data-streaming-apps-with-nifi-flink-and-kafka
+https://www.slideshare.net/secret/zqt6sVd4XMeCoG
+https://www.slideshare.net/ssuser73434e/future-of-data-milwaukee-meetup-streaming-data-pipeline-development-28-june-2023
+https://www.slideshare.net/bunkertor/building-realtime-pipelines-with-flank-a-case-study-with-transit-data
+
 
 # Updates
 
