@@ -22,34 +22,33 @@
 
 # Slides
 
-https://www.slideshare.net/bunkertor/building-modern-data-streaming-apps-with-python
-https://www.slideshare.net/bunkertor/sink-your-teeth-into-streaming-at-any-scale
-https://www.slideshare.net/bunkertor/lets-keep-it-simple-and-streaming
-https://www.slideshare.net/bunkertor/living-the-stream-dream-with-pulsar-and-spring-boot
-https://www.slideshare.net/bunkertor/why-spring-belongs-in-your-data-stream-from-edge-to-multicloud
-https://www.youtube.com/watch?v=pds3gizWEyw&ab_channel=StreamNative
-https://www.slideshare.net/bunkertor/living-the-stream-dream-with-pulsar-and-spring-boot-256064590
-https://www.slideshare.net/bunkertor/the-next-generation-of-streaming
-https://www.slideshare.net/bunkertor/unconference-round-table-notes
-https://www.slideshare.net/bunkertor/conf42-python-ml-enhanced-event-streaming-apps-with-python-microservices
-https://www.slideshare.net/bunkertor/phillyjug-getting-started-with-realtime-cloud-native-streaming-with-java
-https://www.slideshare.net/bunkertor/pythonwebconference-cloud-native-apache-pulsar-development-202-with-python
-https://www.slideshare.net/bunkertor/itpc-building-modern-data-streaming-apps
-https://www.slideshare.net/bunkertor/warsawitdays-apachenifi202
-https://www.slideshare.net/bunkertor/devnexus-apache-pulsar-development-101-with-java
-https://www.meetup.com/futureofdata-sanfrancisco/events/292453316/
-https://www.slideshare.net/bunkertor/rtas-2023-building-a-realtime-iot-application
-https://www.slideshare.net/bunkertor/meet-the-committers-webinar-lab-preparation
-https://www.slideshare.net/bunkertor/gsjug-mastering-data-streaming-pipelines-09may2023
-https://www.youtube.com/watch?v=WvPqE8J3ZOE&pp=ygUOdGltIHNwYW5uIG5pZmk%3D
-https://www.slideshare.net/bunkertor/using-apache-nifi-with-apache-pulsar-for-fast-data-onramp
-https://www.slideshare.net/ssuser73434e/bigdatafest-building-modern-data-streaming-apps-258024601
-https://www.youtube.com/watch?v=UZRvUyjNWmg&t=49s&pp=ygUOdGltIHNwYW5uIG5pZmk%3D
-https://www.slideshare.net/bunkertor/budapest-dataml-building-modern-data-streaming-apps-with-nifi-flink-and-kafka
-https://www.slideshare.net/secret/zqt6sVd4XMeCoG
-https://www.slideshare.net/ssuser73434e/future-of-data-milwaukee-meetup-streaming-data-pipeline-development-28-june-2023
-https://www.slideshare.net/bunkertor/building-realtime-pipelines-with-flank-a-case-study-with-transit-data
-
+* https://www.slideshare.net/bunkertor/building-modern-data-streaming-apps-with-python
+* https://www.slideshare.net/bunkertor/sink-your-teeth-into-streaming-at-any-scale
+* https://www.slideshare.net/bunkertor/lets-keep-it-simple-and-streaming
+* https://www.slideshare.net/bunkertor/living-the-stream-dream-with-pulsar-and-spring-boot
+* https://www.slideshare.net/bunkertor/why-spring-belongs-in-your-data-stream-from-edge-to-multicloud
+* https://www.youtube.com/watch?v=pds3gizWEyw&ab_channel=StreamNative
+* https://www.slideshare.net/bunkertor/living-the-stream-dream-with-pulsar-and-spring-boot-256064590
+* https://www.slideshare.net/bunkertor/the-next-generation-of-streaming
+* https://www.slideshare.net/bunkertor/unconference-round-table-notes
+* https://www.slideshare.net/bunkertor/conf42-python-ml-enhanced-event-streaming-apps-with-python-microservices
+* https://www.slideshare.net/bunkertor/phillyjug-getting-started-with-realtime-cloud-native-streaming-with-java
+* https://www.slideshare.net/bunkertor/pythonwebconference-cloud-native-apache-pulsar-development-202-with-python
+* https://www.slideshare.net/bunkertor/itpc-building-modern-data-streaming-apps
+* https://www.slideshare.net/bunkertor/warsawitdays-apachenifi202
+* https://www.slideshare.net/bunkertor/devnexus-apache-pulsar-development-101-with-java
+* https://www.meetup.com/futureofdata-sanfrancisco/events/292453316/
+* https://www.slideshare.net/bunkertor/rtas-2023-building-a-realtime-iot-application
+* https://www.slideshare.net/bunkertor/meet-the-committers-webinar-lab-preparation
+* https://www.slideshare.net/bunkertor/gsjug-mastering-data-streaming-pipelines-09may2023
+* https://www.youtube.com/watch?v=WvPqE8J3ZOE&pp=ygUOdGltIHNwYW5uIG5pZmk%3D
+* https://www.slideshare.net/bunkertor/using-apache-nifi-with-apache-pulsar-for-fast-data-onramp
+* https://www.slideshare.net/ssuser73434e/bigdatafest-building-modern-data-streaming-apps-258024601
+* https://www.youtube.com/watch?v=UZRvUyjNWmg&t=49s&pp=ygUOdGltIHNwYW5uIG5pZmk%3D
+* https://www.slideshare.net/bunkertor/budapest-dataml-building-modern-data-streaming-apps-with-nifi-flink-and-kafka
+* https://www.slideshare.net/secret/zqt6sVd4XMeCoG
+* https://www.slideshare.net/ssuser73434e/future-of-data-milwaukee-meetup-streaming-data-pipeline-development-28-june-2023
+* https://www.slideshare.net/bunkertor/building-realtime-pipelines-with-flank-a-case-study-with-transit-data
 
 # Updates
 
@@ -86,7 +85,6 @@ https://www.slideshare.net/bunkertor/building-realtime-pipelines-with-flank-a-ca
 * https://getindata.com/blog/nifi-ingestion/fast-and-easy-what-could-possibly-go-wrong-one-year-history-certain-nifi-flow/
 * https://boristyukin.com/how-to-run-sqoop-from-nifi/
 * https://www.hadoopinrealworld.com/building-a-data-pipeline-with-apache-nifi/
-
 
 
 # Support
@@ -268,7 +266,7 @@ get recordpath for things like nested structured in json or xml
 * https://www.futurespace.es/en/apache-nifi-flujo-de-extraccion-validacion-transformacion-y-carga-de-ficheros-caso-de-uso-real/
 * https://nxlog.co/documentation/nxlog-user-guide/apache-nifi.html
 * http://bigapps.fr/apache-nifi-for-dataflow-and-real-time-streaming-with-apache-kafka/
-* 
+  
 
 # Community Q&A
 
@@ -834,6 +832,25 @@ Configuration: nifi.provenance.repository.max.storage.time
 # Videos
 
 * https://www.youtube.com/watch?v=RHFkCtbe3kc
+* https://www.youtube.com/watch?v=4Fh48IL3rUA&t=3s
+* https://www.youtube.com/watch?v=OBLRKO67xxE&t=127s
+* https://www.scylladb.com/presentations/sink-your-teeth-into-streaming-at-any-scale/
+* https://www.youtube.com/watch?v=m7Xe6ZddSFg
+* https://www.youtube.com/watch?v=5lFXI5333mg&ab_channel=RisingWave
+* https://hazelcast.com/resources/real-time-stream-processing-roundtable-featuring-industry-practitioners/
+* https://www.youtube.com/watch?v=1NPgN91FrPU&t=319s&ab_channel=Conf42
+* https://www.youtube.com/watch?v=ufQwbpmLIi4&list=PLlmpIaH7URGXvyslOrhSG8KAfZf56vtr3&index=48
+* https://www.youtube.com/watch?v=iT60STl-Wuk&list=PLlmpIaH7URGXvyslOrhSG8KAfZf56vtr3&index=52
+* https://www.youtube.com/watch?v=PywcAsMBiKs&pp=ygUQIlRpbSBTcGFubiIgbmlmaQ%3D%3D
+* https://www.youtube.com/watch?v=-qzPgwmE32I&pp=ygUOdGltIHNwYW5uIG5pZmk%3D
+* https://youtu.be/HeXTwpsIvxo
+* https://www.youtube.com/watch?v=NMgkPFEQ0jA&pp=ygUOdGltIHNwYW5uIG5pZmk%3D
+* https://www.youtube.com/watch?v=TftfqToEduw&list=PLlmpIaH7URGXvyslOrhSG8KAfZf56vtr3&index=68
+* https://www.youtube.com/watch?v=EoKEl9q_H0c&t=5428s&ab_channel=GardenStateJavaUserGroup
+* https://www.youtube.com/watch?v=9mYd4ISF8KY&list=PLlmpIaH7URGXvyslOrhSG8KAfZf56vtr3&index=61
+* https://www.youtube.com/watch?v=X7m4nZH8bUw&pp=ygUOdGltIHNwYW5uIG5pZmk%3D
+* https://www.youtube.com/watch?v=qW9CP8Xngk4&list=PLlmpIaH7URGXvyslOrhSG8KAfZf56vtr3&index=64
+* https://www.youtube.com/watch?v=1xFha8va7pg
 
 # Misc
 
