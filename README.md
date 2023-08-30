@@ -5,6 +5,12 @@
 * https://datainmotion.dev/
 * http://dev.to/tspannhw
 
+# New Processors
+
+* https://stackoverflow.com/questions/76128391/connect-one-nifi-cluster-to-another-over-a-unidirectional-network-data-diode
+* https://github.com/EndzeitBegins/nifi-flow-over-tcp#putflowtotcp
+
+
 # Newest Examples
 
 * Real-time Groceries https://medium.com/cloudera-inc/seamless-integration-unleashing-the-power-of-real-time-groceries-with-nifi-kafka-flink-and-32d659fe0903
