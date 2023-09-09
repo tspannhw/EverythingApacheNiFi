@@ -5,6 +5,15 @@
 * https://datainmotion.dev/
 * http://dev.to/tspannhw
 
+# How to Build Flows
+
+* https://medium.com/cloudera-inc/building-an-effective-nifi-flow-b5aa1b816380
+* https://medium.com/@nifi.notes/building-an-effective-nifi-flow-queryrecord-cca5ba51afd5
+* https://medium.com/cloudera-inc/building-an-effective-nifi-flow-partitionrecord-b342a8efc50c
+* https://medium.com/cloudera-inc/building-an-effective-nifi-flow-routetext-5068a3b4efb3
+* https://medium.com/@nifi.notes/building-an-effective-nifi-flow-replacetext-60a6016d378c
+
+
 # New Processors
 
 * https://stackoverflow.com/questions/76128391/connect-one-nifi-cluster-to-another-over-a-unidirectional-network-data-diode
