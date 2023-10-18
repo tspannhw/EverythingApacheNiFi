@@ -12,6 +12,7 @@
 * https://medium.com/cloudera-inc/building-an-effective-nifi-flow-partitionrecord-b342a8efc50c
 * https://medium.com/cloudera-inc/building-an-effective-nifi-flow-routetext-5068a3b4efb3
 * https://medium.com/@nifi.notes/building-an-effective-nifi-flow-replacetext-60a6016d378c
+* https://stackoverflow.com/questions/76235808/i-want-to-store-all-json-data-in-flowfile-attribute-in-apache-nifi
 
 
 # New Processors
